@@ -1,0 +1,170 @@
+12: the salesperson told dave that this would be the best car he ever sold.
+main_event_root: tell
+A: told-nsubj
+B: told-dobj
+pron_event_list: [u'sell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'tell-s', 'sell-s']
+
+
+98: the dogs hate the fleas because they hate bugs.
+main_event_root: hate
+A: hate-nsubj
+B: hate-dobj
+pron_event_list: [u'hate']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hate-s', 'hate-s']
+
+
+105: the car passed the truck because it was going too slow.
+main_event_root: pass
+A: passed-nsubj
+B: passed-dobj
+pron_event_list: [u'go', u'slow']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'pass-o', 'slow-s']
+
+
+110: raja wanted rena to take the job because he wanted to leave.
+main_event_root: want
+A: wanted-nsubj
+B: wanted-dobj
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'want-s', 'want-s']
+
+
+115: the boy escaped the cop but he continued to flee.
+main_event_root: escape
+A: escaped-nsubj
+B: escaped-dobj
+pron_event_list: [u'continue', u'flee']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'escape-s', 'continue-s']
+
+
+173: tony helped jeff because he wanted to help.
+main_event_root: help
+A: helped-nsubj
+B: helped-dobj
+pron_event_list: [u'want', u'help']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'help-s', 'help-s']
+
+
+208: john wanted george to run for president because he did not want to.
+main_event_root: want
+A: wanted-nsubj
+B: wanted-dobj
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'want-s', 'want-s']
+
+
+233: the blimp hit the tree because it lost air.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'lose']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hit-s', 'lose-s']
+
+
+246: sentient machines will kill all humans because they are inferior beings.
+main_event_root: kill
+A: kill-nsubj
+B: kill-dobj
+pron_event_list: [u'be']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[u'kill-o', 'be-s']
+
+
+253: jace loves jesus because he died for him.
+main_event_root: love
+A: loves-nsubj
+B: loves-dobj
+pron_event_list: [u'die']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'love-o', 'die-s']
+
+
+254: jace loves jesus because he tasted his goodness.
+main_event_root: love
+A: loves-nsubj
+B: loves-dobj
+pron_event_list: [u'taste']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'love-s', 'taste-s']
+
+
+259: rebecca kissed dina because she loves her.
+main_event_root: kiss
+A: kissed-nsubj
+B: kissed-dobj
+pron_event_list: [u'love']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'kiss-s', 'love-s']
+
+
+266: john asked bill because he knew the answer.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'know']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'ask-o', 'know-s']
+
+
+276: mary had a little lamb until she had lamb chops for dinner.
+main_event_root: have
+A: had-nsubj
+B: had-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'have-s', 'have-s']
+
+
+285: the bat hit the ball because it flew in the way of the trajectory.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'fly']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hit-s', 'fly-s']
+
+
+306: my teacher asked a student to make sentences because he wanted to see him write.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'want', u'see']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'ask-s', 'want-s']
+
+
+345: the police feared allowing the protesters to organize, so they denied their ability to gather.
+main_event_root: allow
+A: allowing-nsubj
+B: allowing-dobj
+pron_event_list: [u'deny']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'allow-s', 'deny-s']
+
+

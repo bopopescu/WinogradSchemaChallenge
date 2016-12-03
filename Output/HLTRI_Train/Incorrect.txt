@@ -1,0 +1,250 @@
+118: the boy tried to address his friend, but he could not hear.
+main_event_root: address
+A: address-nsubj
+B: address-dobj
+pron_event_list: [u'hear']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'address-s', 'hear-s']
+
+
+158: paper beats rock, but it is able to beat scissors.
+main_event_root: beat
+A: beats-nsubj
+B: beats-dobj
+pron_event_list: [u'able', u'beat']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[u'beat-s', 'beat-s']
+
+
+238: the grandmother threw her granddaughter to her death because she would not stop screaming.
+main_event_root: throw
+A: threw-nsubj
+B: threw-dobj
+pron_event_list: [u'stop', u'scream']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'throw-s', 'stop-s']
+
+
+246: the river destroyed the bridge because it was low.
+main_event_root: destroy
+A: destroyed-nsubj
+B: destroyed-dobj
+pron_event_list: [u'low']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[u'destroy-s', 'low-s']
+
+
+251: monkeys hate lions because they eat them.
+main_event_root: hate
+A: hate-nsubj
+B: hate-dobj
+pron_event_list: [u'eat']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hate-o', 'eat-s']
+
+
+283: the mysterious creature is drinking whiskey because it tastes good.
+main_event_root: drink
+A: drinking-nsubj
+B: drinking-dobj
+pron_event_list: [u'taste', u'good']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'drink-s', 'taste-s']
+
+
+348: john asked the scientist what he could do to help.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'do', u'help']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'ask-o', 'help-s']
+
+
+463: jill loves jamie and she does not feel the same way.
+main_event_root: love
+A: loves-nsubj
+B: loves-dobj
+pron_event_list: [u'feel']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'love-s', 'feel-s']
+
+
+501: tom asked his son to drive so that he could sleep.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'sleep']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'ask-o', 'sleep-s']
+
+
+509: bob killed vincent because he was stealing drugs.
+main_event_root: kill
+A: killed-nsubj
+B: killed-dobj
+pron_event_list: [u'steal']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'kill-s', 'steal-s']
+
+
+541: janice bought kenda a car because she needed one.
+main_event_root: buy
+A: bought-nsubj
+B: bought-dobj
+pron_event_list: [u'need']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'buy-s', 'need-s']
+
+
+574: sarah tried to ignore the elephant in the room, but she would not stop trumpeting.
+main_event_root: ignore
+A: ignore-nsubj
+B: ignore-dobj
+pron_event_list: [u'stop', u'trumpet']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'ignore-s', 'stop-s']
+
+
+589: the sailors fell off the boats because they were capsizing.
+main_event_root: fell
+A: fell-nsubj
+B: fell-dobj
+pron_event_list: [u'capsize']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'fell-s', 'capsize-s']
+
+
+610: the product fair showed office 365, and it showed off with a game.
+main_event_root: show
+A: showed-nsubj
+B: showed-dobj
+pron_event_list: [u'show']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'show-s', 'show-s']
+
+
+613: lions love gazelles because they eat them.
+main_event_root: love
+A: love-nsubj
+B: love-dobj
+pron_event_list: [u'eat']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'love-o', 'eat-s']
+
+
+622: god created adam for good but he could not control his temptation.
+main_event_root: create
+A: created-nsubj
+B: created-dobj
+pron_event_list: [u'control']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'create-s', 'control-s']
+
+
+915: the ski instructors taught the children the basics of skiing since they are trying to learn.
+main_event_root: teach
+A: taught-nsubj
+B: taught-dobj
+pron_event_list: [u'try', u'learn']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'teach-s', 'learn-s']
+
+
+1018: chevrolet had to recently recall their cars so they could receive a repair in their brakes.
+main_event_root: recall
+A: recall-nsubj
+B: recall-dobj
+pron_event_list: [u'receive']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'recall-s', 'receive-s']
+
+
+1154: tiger woods dropped randy as his caddy, but he does not agree with his decision.
+main_event_root: drop
+A: dropped-nsubj
+B: dropped-dobj
+pron_event_list: [u'agree']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'drop-s', 'agree-s']
+
+
+1161: lorenze took his son to the hospital because he fell off his bike and hurt his leg.
+main_event_root: take
+A: took-nsubj
+B: took-dobj
+pron_event_list: [u'fell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'take-s', 'fell-s']
+
+
+1224: john could not understand his waiter, because he spoke spanish.
+main_event_root: understand
+A: understand-nsubj
+B: understand-dobj
+pron_event_list: [u'speak']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'understand-s', 'speak-s']
+
+
+1257: the hammer hit the bullet, so it shot.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'shoot']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hit-s', 'shoot-s']
+
+
+1261: kenny attacked ben, and then he attacked back.
+main_event_root: attack
+A: attacked-nsubj
+B: attacked-dobj
+pron_event_list: [u'attack']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'attack-s', 'attack-s']
+
+
+1270: obama beat john mccain, because he failed to win the majority of the electoral votes.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'fail', u'win']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'beat-s', 'win-s']
+
+
+1296: daryel told ross that he was the ugliest person he knew of and made him angry.
+main_event_root: tell
+A: told-nsubj
+B: told-dobj
+pron_event_list: [u'person', u'know']-nsubj
+pron_event_type_list: ['NOUN', 'VERB']
+
+found:[u'tell-s', 'know-s']
+
+

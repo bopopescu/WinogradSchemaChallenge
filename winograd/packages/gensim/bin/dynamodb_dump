@@ -1,0 +1,4 @@
+#!/usr/local/bin/python2.7
+# EASY-INSTALL-SCRIPT: 'boto==2.43.0','dynamodb_dump'
+__requires__ = 'boto==2.43.0'
+__import__('pkg_resources').run_script('boto==2.43.0', 'dynamodb_dump')

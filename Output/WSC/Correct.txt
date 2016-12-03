@@ -1,0 +1,31 @@
+6: joan made sure to thank susan for all the help she had given
+main_event_root: thank
+A: thank-nsubj
+B: thank-dobj
+pron_event_list: [u'give']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'thank-o', 'give-s']
+
+
+127: sara borrowed the book from the library because she needs it for an
+article she is working on and she reads it when she gets home from work
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'need', u'read']-dobj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:['.-s', 'need-o']
+
+
+213: joe paid the detective after he received the final report on the case
+main_event_root: pay
+A: paid-nsubj
+B: paid-dobj
+pron_event_list: [u'receive']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'pay-s', 'receive-s']
+
+

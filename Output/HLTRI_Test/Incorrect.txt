@@ -1,0 +1,90 @@
+4: the chimpanzee could not use linux because it uses different commands than windows.
+main_event_root: use
+A: use-nsubj
+B: use-dobj
+pron_event_list: [u'use']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'use-s', 'use-s']
+
+
+11: the salesperson told dave that this would be the best car he ever bought.
+main_event_root: tell
+A: told-nsubj
+B: told-dobj
+pron_event_list: [u'buy']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'tell-s', 'buy-s']
+
+
+116: the boy escaped the cop but he continued to search.
+main_event_root: escape
+A: escaped-nsubj
+B: escaped-dobj
+pron_event_list: [u'continue', u'search']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'escape-s', 'continue-s']
+
+
+120: the lion saw the fish and it was swimming.
+main_event_root: saw
+A: saw-nsubj
+B: saw-dobj
+pron_event_list: [u'swim']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'saw-s', 'swim-s']
+
+
+145: the man shot his friend and he died.
+main_event_root: shoot
+A: shot-nsubj
+B: shot-dobj
+pron_event_list: [u'die']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'shoot-s', 'die-s']
+
+
+271: john killed bill because he was fighting for his life.
+main_event_root: kill
+A: killed-nsubj
+B: killed-dobj
+pron_event_list: [u'fight']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'kill-o', 'fight-s']
+
+
+286: the bat hit the ball because it flew straight at the poor animal.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'fly']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hit-s', 'fly-s']
+
+
+346: the police feared allowing the protesters to organize, but they decided to organize anyway.
+main_event_root: allow
+A: allowing-nsubj
+B: allowing-dobj
+pron_event_list: [u'decide', u'organize']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'allow-s', 'decide-s']
+
+
+543: jim likes john, but he does not like him back.
+main_event_root: like
+A: likes-nsubj
+B: likes-dobj
+pron_event_list: [u'like']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'like-s', 'like-s']
+
+

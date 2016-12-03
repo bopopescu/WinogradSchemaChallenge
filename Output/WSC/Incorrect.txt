@@ -1,0 +1,11 @@
+128: sara borrowed the book from the library because she needs it for an
+article she is working on and she writes it when she gets home from work
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'need', u'write']-dobj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:['.-s', 'need-o']
+
+

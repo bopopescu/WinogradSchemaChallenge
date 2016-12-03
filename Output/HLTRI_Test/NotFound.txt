@@ -1,0 +1,5380 @@
+1: the sniper shot the terrorist because he was a bad guy.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'guy']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+2: the sniper shot the terrorist because he had orders.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+3: the chimpanzee could not use linux because it was an animal.
+main_event_root: use
+A: use-nsubj
+B: use-dobj
+pron_event_list: [u'animal']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+5: bill punched bob in the face because he was being rude to mary.
+main_event_root: punch
+A: punched-nsubj
+B: punched-dobj
+pron_event_list: [u'rude', u'mary']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+6: bill punched bob in the face because he wanted to protect mary.
+main_event_root: punch
+A: punched-nsubj
+B: punched-dobj
+pron_event_list: [u'want', u'protect']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+7: carl borrowed a book from richard, but the book was never returned to him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'return']-nmod
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+8: carl borrowed a book from richard, but the book was unreadable to him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'unreadable']-nmod
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+9: bill likes to play with bob because he loves playing.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'love']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+10: bill likes to play with bob but he did not want to.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+13: the student wanted to ask the professor for help but decided not to because he was too scared.
+main_event_root: ask
+A: ask-nsubj
+B: ask-dobj
+pron_event_list: [u'scar']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+14: the student wanted to ask the professor for help but decided not to because he was too intimidating.
+main_event_root: ask
+A: ask-nsubj
+B: ask-dobj
+pron_event_list: [u'intimidate']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+15: the student couldn't understand the teacher because he had an accent.
+main_event_root: understand
+A: understand-nsubj
+B: understand-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+16: the student couldn't understand the teacher because he wasn't paying attention.
+main_event_root: understand
+A: understand-nsubj
+B: understand-dobj
+pron_event_list: [u'pay']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+17: the campers turned on their flashlights because it was dark without them.
+main_event_root: turn
+A: turned-nsubj
+B: turned-dobj
+pron_event_list: [u'dark']-nmod
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+18: the campers turned on their flashlights because the darkness scared them.
+main_event_root: turn
+A: turned-nsubj
+B: turned-dobj
+pron_event_list: [u'scar']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+19: francis stopped and looked at the penguin because he was intrigued.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'intrigue']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+20: francis stopped and looked at the penguin because he was cute.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'cute']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+21: the off-campus apartments were preferred to the on-campus apartments because they were cheaper.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'cheaper']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+22: the off-campus apartments were preferred to the on-campus apartments because they were more expensive.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'expensive']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+23: the general fired his pistol at the monster so he could be a distraction.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'distraction']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+24: the general fired his pistol at the monster so he turned and looked.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'turn']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+25: liverpool lost to manchester united because they had been mismanaged all season.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'mismanage']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+26: liverpool lost to manchester united because they were a superior team.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'team']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+27: rice beat texas, even though they were a smaller school.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'school']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+28: rice beat texas, even though they were the best team in the nation.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'team']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+29: the state executes prisoners because they want justice.
+main_event_root: execute
+A: executes-nsubj
+B: executes-dobj
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+30: the state executes prisoners because they were convicted of heinous crimes.
+main_event_root: execute
+A: executes-nsubj
+B: executes-dobj
+pron_event_list: [u'convict']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+31: jason built rocky a robot, and he gave it to him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'give']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+32: jason built rocky a robot, so he had more free time.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+33: my heart pumps blood because it is liquid.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'liquid']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+34: my heart pumps blood because it is a muscle.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'muscle']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+35: joe smells better than adam since he showers regularly.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'adam']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+36: joe smells better than adam since he hardly ever showers.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'adam']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+37: the pen is mightier than the sword because it can only stab things.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'things']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+38: the pen is mightier than the sword because it can be used to write world-changing documents.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'use', u'write']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+39: the cats attacked the humans because they were feral.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'feral']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+40: the cats attacked the humans because they smelled like fish.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'smell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+41: bob can beat larry at arm wrestling because he has more muscles.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+42: bob can beat larry at arm wrestling because he is a toddler.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'toddler']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+43: donald kicked king but he never cried.
+main_event_root: kick
+A: kicked-nsubj
+B: kicked-dobj
+pron_event_list: [u'cry']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+44: donald kicked king but he never felt bad.
+main_event_root: kick
+A: kicked-nsubj
+B: kicked-dobj
+pron_event_list: [u'felt', u'bad']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+45: steve went to the meeting with john because he was asked to.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'ask', u'to']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+46: steve went to the meeting with john because he asked him to.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'ask']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+47: mary gave sandy her book because she needed it.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+48: mary gave sandy her book because she is generous.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'generous']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+49: john visited luke in the hospital because he was sick.
+main_event_root: visit
+A: visited-nsubj
+B: visited-dobj
+pron_event_list: [u'sick']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+50: john visited luke in the hospital because he lived close by.
+main_event_root: visit
+A: visited-nsubj
+B: visited-dobj
+pron_event_list: [u'live']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+51: john hired bill because he needed someone.
+main_event_root: hire
+A: hired-nsubj
+B: hired-dobj
+pron_event_list: [u'need']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+52: john fired bill because he was incompetent.
+main_event_root: fire
+A: fired-nsubj
+B: fired-dobj
+pron_event_list: [u'incompetent']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+53: john introduced bill because he knew everyone.
+main_event_root: introduce
+A: introduced-nsubj
+B: introduced-dobj
+pron_event_list: [u'know']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+54: john introduced bill because he was new.
+main_event_root: introduce
+A: introduced-nsubj
+B: introduced-dobj
+pron_event_list: [u'new']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+55: john shot bill and he was jailed.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'bill']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+56: john shot bill and he died.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'bill']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+57: the mad hatter tried to offer a cup of tea to the march hare, but his hat was too distracting.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hat']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+58: the mad hatter tried to offer a cup of tea to the march hare, but his long ears were too distracting.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'ears']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+59: richard blackmailed senator carson so that his silence would be secured.
+main_event_root: blackmail
+A: blackmailed-nsubj
+B: blackmailed-dobj
+pron_event_list: [u'silence']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+60: richard blackmailed senator carson so that his rise to power would be secured.
+main_event_root: blackmail
+A: blackmailed-nsubj
+B: blackmailed-dobj
+pron_event_list: [u'rise']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+61: tradition dictated the captain hold the stanley cup first, and it was pretty.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'be']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+62: tradition dictated the captain hold the stanley cup first, and it is always followed.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'follow']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+63: the bat hit the ball because it was designed to hit.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'design', u'hit']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+64: the bat hit the ball because it was designed to be hit.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'design', u'hit']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+65: the program could successfully parse the file because it was programmed well.
+main_event_root: parse
+A: parse-nsubj
+B: parse-dobj
+pron_event_list: [u'program']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+66: the program could successfully parse the file because it was formatted well.
+main_event_root: parse
+A: parse-nsubj
+B: parse-dobj
+pron_event_list: [u'format']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+67: the article about the fires said that they torched most of seattle.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'torch']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+68: the article about the fires said that they would research the situation further.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'research']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+69: the winners were given the awards after they won.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'win']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+70: the winners were given the awards after they were made.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'make']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+71: the man jumped on the neighbor's pool and he swam.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'swim']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+72: the man jumped on the neighbor's pool and he stared.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'star']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+73: the team shredded the report, so that it could rewrite a new one.
+main_event_root: shred
+A: shredded-nsubj
+B: shredded-dobj
+pron_event_list: [u'rewrite']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+74: the team shredded the report, so that it could be rewritten.
+main_event_root: shred
+A: shredded-nsubj
+B: shredded-dobj
+pron_event_list: [u'rewrite']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+75: bob asked tom if he could take him to the movies.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'take']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+76: bob asked tom if he could lend some money.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'lend']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+77: homer punched flanders because he was being annoying.
+main_event_root: punch
+A: punched-nsubj
+B: punched-dobj
+pron_event_list: [u'annoy']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+78: homer punched flanders because he was asked to.
+main_event_root: punch
+A: punched-nsubj
+B: punched-dobj
+pron_event_list: [u'ask', u'to']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+79: nelson punched milhouse but he was not hurt.
+main_event_root: punch
+A: punched-nsubj
+B: punched-dobj
+pron_event_list: [u'hurt']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+80: nelson punched milhouse but he was not caught.
+main_event_root: punch
+A: punched-nsubj
+B: punched-dobj
+pron_event_list: [u'catch']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+81: the mermaid swam toward sue and made her gasp.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'make']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+82: the mermaid swam toward sue and waved her tail.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'tail']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+83: the mother bear attacked karen because she had gotten too close to her cub.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+84: the mother bear attacked karen because she was worried for her cub.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'worry']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+85: mary smiled at susan, but she did not smile back.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'smile']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+86: mary smiled at susan, but she was not happy to see her.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'happy', u'see']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+87: the leech latched onto the hippo so that it could enjoy the sunshine.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'enjoy']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+88: the leech latched onto the hippo because it was hungry.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+89: the people protested the government because they were hungry.
+main_event_root: protest
+A: protested-nsubj
+B: protested-dobj
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+90: the people protested the government because they were raising taxes.
+main_event_root: protest
+A: protested-nsubj
+B: protested-dobj
+pron_event_list: [u'raise']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+91: i drank the beer with a lime because it was cold.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'cold']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+92: i drank the beer with a lime because it was sour.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'sour']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+93: the employer talked to the employee about being loyal to him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'loyal']-nmod
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+94: the employer talked to the employee about firing him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'talk']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+95: a chicken pecked at a bug and it ate it.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'eat', u'eat']-dobj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+96: a chicken pecked at a bug and it ran away.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'run']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+97: the dogs hate the fleas because they suck blood.
+main_event_root: hate
+A: hate-nsubj
+B: hate-dobj
+pron_event_list: [u'suck']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+99: steven seagal challenged jean claude van damme to a fight because he wanted to prove he was the stronger man.
+main_event_root: challenge
+A: challenged-nsubj
+B: challenged-dobj
+pron_event_list: [u'want', u'prove', u'man']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'NOUN']
+
+found:[]
+
+
+100: steven seagal challenged jean claude van damme to a fight because he is a worthy opponent.
+main_event_root: challenge
+A: challenged-nsubj
+B: challenged-dobj
+pron_event_list: [u'opponent']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+101: girls like puppies because they are adorable.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'adorable']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+102: girls like puppies because they like adorable things.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'like']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+103: jack got more votes than john because the people liked him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'like']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+104: jack got more votes than john because the people did not like him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'like']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+106: the car passed the truck because it needed to go faster.
+main_event_root: pass
+A: passed-nsubj
+B: passed-dobj
+pron_event_list: [u'need', u'go']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+107: my phone is working better than your phone because it is a newer model.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'model']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+108: my phone is working better than your phone because it is broken.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'break']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+109: raja wanted rena to take the job because he would be a good candidate.
+main_event_root: want
+A: wanted-nsubj
+B: wanted-dobj
+pron_event_list: [u'candidate']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+111: sheila tried to repair the old jalopy, even though she had not run in three decades.
+main_event_root: repair
+A: repair-nsubj
+B: repair-dobj
+pron_event_list: [u'run']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+112: sheila tried to repair the old jalopy, even though she had not worked on cars in three decades.
+main_event_root: repair
+A: repair-nsubj
+B: repair-dobj
+pron_event_list: [u'work']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+113: the ghost entered the house because it was haunting.
+main_event_root: enter
+A: entered-nsubj
+B: entered-dobj
+pron_event_list: [u'haunt']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+114: the ghost entered the house because it was haunted.
+main_event_root: enter
+A: entered-nsubj
+B: entered-dobj
+pron_event_list: [u'haunt']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+117: the needle punctured the skin but it failed to register pain.
+main_event_root: puncture
+A: punctured-nsubj
+B: punctured-dobj
+pron_event_list: [u'fail', u'register']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+118: the needle punctured the skin but it failed to administer pain.
+main_event_root: puncture
+A: punctured-nsubj
+B: punctured-dobj
+pron_event_list: [u'fail', u'administer']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+119: the lion saw the fish and it pounced.
+main_event_root: saw
+A: saw-nsubj
+B: saw-dobj
+pron_event_list: [u'pounce']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+121: the clown smiled at the child and he cried.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'cry']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+122: the clown smiled at the child and he offered him a balloon.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'offer']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+123: the scientists gave the chimps some bananas because they were hungry.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+124: the scientists gave the chimps some bananas because they were ripe.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'ripe']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+125: the boss fired the worker when he stopped performing well.
+main_event_root: fire
+A: fired-nsubj
+B: fired-dobj
+pron_event_list: [u'stop', u'perform']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+126: the boss fired the worker when he called him into the office.
+main_event_root: fire
+A: fired-nsubj
+B: fired-dobj
+pron_event_list: [u'call']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+127: the outlet powered the lamp when it had electricity.
+main_event_root: power
+A: powered-nsubj
+B: powered-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+128: the outlet powered the lamp when it was plugged in.
+main_event_root: power
+A: powered-nsubj
+B: powered-dobj
+pron_event_list: [u'plug']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+129: the paintball player was mad at the referee because he missed a call.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'miss']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+130: the paintball player was mad at the referee because he was called out but shouldn't.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'call']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+131: the network heads cancelled the tv shows because they were not doing well.
+main_event_root: head
+A: heads-nsubj
+B: heads-dobj
+pron_event_list: [u'do']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+132: the network heads cancelled the tv shows because they did not like the content.
+main_event_root: head
+A: heads-nsubj
+B: heads-dobj
+pron_event_list: [u'like']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+133: the cheetah outran the antelope so it got to eat.
+main_event_root: outrun
+A: outran-nsubj
+B: outran-dobj
+pron_event_list: [u'get', u'eat']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+134: the cheetah outran the antelope so it got eaten.
+main_event_root: outrun
+A: outran-nsubj
+B: outran-dobj
+pron_event_list: [u'eat']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+135: the keys typed the words because they were meant to be typed.
+main_event_root: type
+A: typed-nsubj
+B: typed-dobj
+pron_event_list: [u'mean', u'type']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+136: the keys typed the words because they were meant to be typed on.
+main_event_root: type
+A: typed-nsubj
+B: typed-dobj
+pron_event_list: [u'mean', u'type']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+137: the racquetball players were annoyed by the other students in the activity center because they were using the racquetball courts to play badminton.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'use']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+138: the racquetball players were annoyed by the other students in the activity center because they wanted to play and couldn't.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'want', u'play']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+139: the teachers scolded the students because they would not learn the material.
+main_event_root: scold
+A: scolded-nsubj
+B: scolded-dobj
+pron_event_list: [u'learn']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+140: the teachers scolded the students because they were the authority figures.
+main_event_root: scold
+A: scolded-nsubj
+B: scolded-dobj
+pron_event_list: [u'figure']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+141: the plane was in the sky and it was fast.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'be']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+142: the plane was in the sky and it was cloudy.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'cloudy']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+143: joe crashed into mike and he had to pay for the damage.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have', u'pay']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+144: joe crashed into mike because he needed a place to sleep.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+146: the man shot his friend and he was arrested.
+main_event_root: shoot
+A: shot-nsubj
+B: shot-dobj
+pron_event_list: [u'arrest']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+147: the man killed the boss because he hated the job.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'hat']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+148: the man killed the boss because he fired him.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'fire']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+149: joe raced against steven because he thought it would be easy.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'think']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+150: joe raced against steven because he would not say no.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'say']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+151: the light hit the mirror and it reflected.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'mirror']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+152: the light hit the mirror and it shattered.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'mirror']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+153: google plus is expected to be a replacement for facebook but it still does not have enough active users.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+154: google plus is expected to be a replacement for facebook but it still has a lot more active users.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+155: the spear easily pierced through the armor because it was too sharp.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'sharp']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+156: the spear easily pierced through the armor because it was too thin.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'thin']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+157: the cat caught the mouse because it was clever.
+main_event_root: catch
+A: caught-nsubj
+B: caught-dobj
+pron_event_list: [u'clever']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+158: the cat caught the mouse because it was careless.
+main_event_root: catch
+A: caught-nsubj
+B: caught-dobj
+pron_event_list: [u'careless']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+159: joseph did not defeat william in the match, so he paid $100.
+main_event_root: defeat
+A: defeat-nsubj
+B: defeat-dobj
+pron_event_list: [u'pay']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+160: joseph did not defeat william in the match, so he earned $100.
+main_event_root: defeat
+A: defeat-nsubj
+B: defeat-dobj
+pron_event_list: [u'earn']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+161: adam failed to kill alexander, so he hired a bodygaurd in case of a second attempt.
+main_event_root: kill
+A: kill-nsubj
+B: kill-dobj
+pron_event_list: [u'hire']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+162: adam failed to kill alexander, so he hired an assassin for the second attempt.
+main_event_root: kill
+A: kill-nsubj
+B: kill-dobj
+pron_event_list: [u'hire']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+163: the bowl had a crack, so it was filled in.
+main_event_root: have
+A: had-nsubj
+B: had-dobj
+pron_event_list: [u'fill']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+164: the bowl had a crack, so it was thrown away.
+main_event_root: have
+A: had-nsubj
+B: had-dobj
+pron_event_list: [u'throw']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+165: the student told the instructor that he was sick.
+main_event_root: tell
+A: told-nsubj
+B: told-dobj
+pron_event_list: [u'sick']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+166: the student told the instructor that he talked fast.
+main_event_root: tell
+A: told-nsubj
+B: told-dobj
+pron_event_list: [u'talk']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+167: joe put bob in the time machine and he went to the future.
+main_event_root: put
+A: put-nsubj
+B: put-dobj
+pron_event_list: [u'go']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+168: joe put bob in the time machine and he created another one.
+main_event_root: put
+A: put-nsubj
+B: put-dobj
+pron_event_list: [u'create']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+169: bill asked joe if he could borrow some money.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'borrow']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+170: bill asked joe if he had any money.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+171: the chef held the waiter so that he would not flee.
+main_event_root: hold
+A: held-nsubj
+B: held-dobj
+pron_event_list: [u'flee']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+172: the chef held the waiter so that he did not fall off.
+main_event_root: hold
+A: held-nsubj
+B: held-dobj
+pron_event_list: [u'fall']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+174: tony helped jeff because he needed help.
+main_event_root: help
+A: helped-nsubj
+B: helped-dobj
+pron_event_list: [u'need']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+175: the cat was afraid of the dog because it was scary.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'scary']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+176: the cat was afraid of the dog because it was timid.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'timid']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+177: the violin fell off the table because someone knocked it off.
+main_event_root: fell
+A: fell-nsubj
+B: fell-dobj
+pron_event_list: [u'knock']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+178: the violin fell off the table because it was unstable.
+main_event_root: fell
+A: fell-nsubj
+B: fell-dobj
+pron_event_list: [u'unstable']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+179: lily gave amber a hug because she was sad.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'sad']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+180: lily gave amber a hug because she was sorry.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'sorry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+181: the birds ate the seeds because they were hungry.
+main_event_root: eat
+A: ate-nsubj
+B: ate-dobj
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+182: the birds ate the seeds because they were tasty.
+main_event_root: eat
+A: ate-nsubj
+B: ate-dobj
+pron_event_list: [u'tasty']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+183: josie did not like sarah, but she did not know it.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'know']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+184: josie did not like sarah, but she did not tell her.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'tell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+185: ken tried to sneak past the boss because he was late for work.
+main_event_root: sneak
+A: sneak-nsubj
+B: sneak-dobj
+pron_event_list: [u'late']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+186: ken tried to sneak past the boss because he was looking for late people.
+main_event_root: sneak
+A: sneak-nsubj
+B: sneak-dobj
+pron_event_list: [u'look']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+187: the hyenas scavenged from the lions because they were desperate.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'desperate']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+188: the hyenas scavenged from the lions because they had left scraps.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'leave']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+189: the fisherman hooked a big fish but he got away.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'fish']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+190: the fisherman hooked a big fish but he dropped his pole.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'fish']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+191: the geology department petitioned the school board for money because they needed funding.
+main_event_root: petition
+A: petitioned-nsubj
+B: petitioned-dobj
+pron_event_list: [u'need']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+192: the geology department petitioned the school board for money because they could grant funding.
+main_event_root: petition
+A: petitioned-nsubj
+B: petitioned-dobj
+pron_event_list: [u'grant']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+193: george scored against thomas in the shootout, so he won the game.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'win']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+194: george scored against thomas in the shootout, so he lost the game.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'lose']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+195: lakshman asked vivan to get him some ice cream because he was hot.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'hot']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+196: lakshman asked vivan to get him some ice cream because he owed him money.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'owe']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+197: yuri owed ivan money because he paid for the vodka.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'pay']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+198: yuri owed ivan money because he lost the bet.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'lose']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+199: steve hired jose because he was a hard worker.
+main_event_root: hire
+A: hired-nsubj
+B: hired-dobj
+pron_event_list: [u'worker']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+200: steve hired jose because he could not find anyone better.
+main_event_root: hire
+A: hired-nsubj
+B: hired-dobj
+pron_event_list: [u'find']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+201: the outlaw shot the sheriff, but he did not shoot the deputy.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'shoot']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+202: the outlaw shot the sheriff, but he shot back.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'shoot']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+203: kelly neglected to tell katie that their rent was due, but she told her later.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'tell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+204: kelly neglected to tell katie that their rent was due, but she remembered that it was due on the first of every month.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'remember']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+205: the committee increased the price of the tickets to the dance for the students, but they did not like it.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'do']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+206: the committee increased the price of the tickets to the dance for the students, but they changed their decision later.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'change']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+207: john wanted george to run for president because he was a great governor.
+main_event_root: want
+A: wanted-nsubj
+B: wanted-dobj
+pron_event_list: [u'governor']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+209: olivia wants to make amends with emily, but she is apprehensive.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'apprehensive']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+210: olivia wants to make amends with emily, but she no longer wants to be friends.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+211: jill saw jane fall down, and she helped her up.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'help']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+212: jill saw jane fall down, and she asked her for help.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'ask']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+213: larry purchased some of marty's lemonade, and he made money.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'make']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+214: larry purchased some of marty's lemonade, and he wanted the recipe.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+215: the professor gave the student a bad grade because he did not study.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'do']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+216: the professor gave the student a bad grade because he was strict.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'strict']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+217: we took the books to the shops because they were old.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'old']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+218: we took the books to the shops because they would buy them.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'buy']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+219: we gave the fruit to the humans because they were hungry.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+220: we gave the fruit to the humans because they were ripe.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'ripe']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+221: battlefield 3 is more fun than modern warfare 3 because it is a better game.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'game']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+222: battlefield 3 is more fun than modern warfare 3 because it is a crappy game.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'game']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+223: john attacked tim because he hates communists.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'hat']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+224: john attacked tim because he was a communist.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'communist']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+225: someone hit billy in the face because he was angry.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'angry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+226: someone hit billy in the face because he was being rude.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'rude']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+227: joe has more money than adam since he has a better job.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+228: joe has more money than adam since he has no job.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+229: pigs are better than sheep because they make bacon.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'make']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+230: pigs are better than sheep because they do not make bacon.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'make']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+231: the car beat the bike because it was faster.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'bike']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+232: the car beat the bike because it was too slow.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'bike']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+234: the blimp hit the tree because it was in the way.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'way']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+235: bob sued bill because he was embezzling funds.
+main_event_root: sue
+A: sued-nsubj
+B: sued-dobj
+pron_event_list: [u'embezzle']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+236: bob sued bill because he wanted more money.
+main_event_root: sue
+A: sued-nsubj
+B: sued-dobj
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+237: i gave the donkey some food because it was hungry.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+238: i gave the donkey some food because it was fresh.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'fresh']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+239: the humans were afraid of the robots because they were weak.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'weak']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+240: the humans were afraid of the robots because they were strong.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'strong']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+241: the playstation is outperforming the xbox because it has better games.
+main_event_root: outperform
+A: outperforming-nsubj
+B: outperforming-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+242: the playstation is outperforming the xbox because it is prone to hardware failure.
+main_event_root: outperform
+A: outperforming-nsubj
+B: outperforming-dobj
+pron_event_list: [u'prone']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+243: sean is better than watson at anaphora resolution because he can naturally understand natural language.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'understand']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+244: sean is better than watson at anaphora resolution because he has trouble understanding natural language.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+245: sentient machines will kill all humans because they have giant death rays.
+main_event_root: kill
+A: kill-nsubj
+B: kill-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+247: watson beat ken at jeopardy because he is a superior machine.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'machine']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+248: watson beat ken at jeopardy because he is an inferior human.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'human']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+249: larry trusted page because bill told him to.
+main_event_root: trust
+A: trusted-nsubj
+B: trusted-dobj
+pron_event_list: [u'tell']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+250: larry trusted page because bill knows him.
+main_event_root: trust
+A: trusted-nsubj
+B: trusted-dobj
+pron_event_list: [u'know']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+251: cosby supported jay because thea really liked him.
+main_event_root: support
+A: supported-nsubj
+B: supported-dobj
+pron_event_list: [u'like']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+252: cosby supported jay because thea asked him to.
+main_event_root: support
+A: supported-nsubj
+B: supported-dobj
+pron_event_list: [u'ask']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+255: olga kicked sara because she woke her up.
+main_event_root: kick
+A: kicked-nsubj
+B: kicked-dobj
+pron_event_list: [u'wake']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+256: olga kicked sara because she was drunk.
+main_event_root: kick
+A: kicked-nsubj
+B: kicked-dobj
+pron_event_list: [u'drink']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+257: nola shot christina in the head because she threatened to take all of her money.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'threaten', u'take']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+258: nola shot christina in the head because she thought it was a good idea to kill a human being.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'think']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+260: rebecca kissed dina because she is a sweet girl.
+main_event_root: kiss
+A: kissed-nsubj
+B: kissed-dobj
+pron_event_list: [u'girl']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+261: mom brought sara from school early because she was sick.
+main_event_root: bring
+A: brought-nsubj
+B: brought-dobj
+pron_event_list: [u'sick']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+262: mom brought sara from school early because she had an early meeting.
+main_event_root: bring
+A: brought-nsubj
+B: brought-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+263: gorden got mad at his brother because he forgot to bring him chocolate.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'forget', u'bring']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+264: gorden got mad at his brother because he did not get good sleep.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+265: john asked bill because he was confused.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'confuse']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+267: john rated bill because he was the judge.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'judge']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+268: john rated bill because he was a contestant.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'contestant']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+269: john called bill because he needed someone to talk to.
+main_event_root: call
+A: called-nsubj
+B: called-dobj
+pron_event_list: [u'need']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+270: john called bill because he was a good listener.
+main_event_root: call
+A: called-nsubj
+B: called-dobj
+pron_event_list: [u'listener']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+272: john killed bill because he was a zombie.
+main_event_root: kill
+A: killed-nsubj
+B: killed-dobj
+pron_event_list: [u'zombie']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+273: billy beat tommy at scrabble because that newbie had no skill.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: []-.
+pron_event_type_list: []
+
+found:[]
+
+
+274: billy beat tommy at scrabble because that newbie had all the luck.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: []-.
+pron_event_type_list: []
+
+found:[]
+
+
+275: mary had a little lamb until she was stolen by cindy.
+main_event_root: have
+A: had-nsubj
+B: had-dobj
+pron_event_list: [u'steal']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+277: the wolves chased the deer because they were predators.
+main_event_root: chase
+A: chased-nsubj
+B: chased-dobj
+pron_event_list: [u'predators']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+278: the wolves chased the deer because they were prey.
+main_event_root: chase
+A: chased-nsubj
+B: chased-dobj
+pron_event_list: [u'prey']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+279: the girls ate the apples because they were hungry.
+main_event_root: eat
+A: ate-nsubj
+B: ate-dobj
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+280: the girls ate the apples because they were ripe.
+main_event_root: eat
+A: ate-nsubj
+B: ate-dobj
+pron_event_list: [u'ripe']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+281: the minister befriended king george so he would not get beheaded.
+main_event_root: befriend
+A: befriended-nsubj
+B: befriended-dobj
+pron_event_list: [u'behead']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+282: the minister befriended king george so he could have some friends.
+main_event_root: befriend
+A: befriended-nsubj
+B: befriended-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+283: mary likes joe because she has a cool name.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'joe']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+284: mary likes joe because she likes females.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'joe']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+287: the knife sliced through the flesh because it was sharp.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'sharp']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+288: the knife sliced through the flesh because it was tender.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'tender']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+289: the boy lied to his father about the crime, but he still felt uneasy and was slowly overcome with guilt.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'felt', u'uneasy']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+290: the boy lied to his father about the crime, but he still felt uneasy and was slowly overcome with curiosity.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'felt', u'uneasy']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+291: the apple wine entered my mouth because it tastes good.
+main_event_root: enter
+A: entered-nsubj
+B: entered-dobj
+pron_event_list: [u'taste', u'good']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+292: the apple wine entered my mouth because it was not full.
+main_event_root: enter
+A: entered-nsubj
+B: entered-dobj
+pron_event_list: [u'full']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+293: the boy helped his friend move because he was going to be free all day.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'go', u'free']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+294: the boy helped his friend move because he was going to be busy all day.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'go', u'busy']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+295: the boy secretly watched his friend because he wanted the secret information.
+main_event_root: watch
+A: watched-nsubj
+B: watched-dobj
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+296: the boy secretly watched his friend because he had the secret information.
+main_event_root: watch
+A: watched-nsubj
+B: watched-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+297: the bug was flying towards the light, but it was exterminated prematurely.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'exterminate']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+298: the bug was flying towards the light, but it was extinguished prematurely.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'extinguish']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+299: the man offered the boy candy, but he had no candy.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+300: the man offered the boy candy, but he got no candy.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+301: paul screamed at jack since he was angry.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'angry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+302: paul screamed at jack since he was ignoring him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'ignore']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+303: the baby cow cried at the farmer because he wanted milk.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+304: the baby cow cried at the farmer because he had milk.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+305: my teacher asked a student to make sentences because he was late to class.
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'late']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+307: the gym teachers trained the students because they wanted to teach them discipline.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want', u'teach']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+308: the gym teachers trained the students because they wanted to become better players.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want', u'become', u'players']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+309: the skyline drifts better than the f-150 because it is well balanced.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'balance']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+310: the skyline drifts better than the f-150 because it is not meant to drift.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'mean', u'drift']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+311: the city council granted a permit to the construction workers because they were well qualified.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'qualify']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+312: the city council granted a permit to the construction workers because they were elected to encourage business.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'elect', u'encourage']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+313: rick perry is doing stronger than mitt romney in the polls, but he is coming back as a strong candidate.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'come']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+314: rick perry is doing stronger than mitt romney in the polls, but he is confident to maintain the lead.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'confident', u'maintain']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+315: the detroit lions beat the dallas cowboys because they had more desire to win.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+316: the detroit lions beat the dallas cowboys because they were unprepared.
+main_event_root: beat
+A: beat-nsubj
+B: beat-dobj
+pron_event_list: [u'unprepared']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+317: james cameron is more successful than michael bay because his movies sell more worldwide.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'movies']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+318: james cameron is more successful than michael bay because his movies do not create as much hype.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'movies']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+319: audrey hepburn made more movies than katherine hepburn because she was pretty and talented.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'be']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+320: audrey hepburn made more movies than katherine hepburn because she was not as good at acting.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'good']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+321: the penguins scored two goals against the flyers in two minutes because they were not concentrating.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'concentrate']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+322: the penguins scored two goals against the flyers in two minutes because they are more skilled.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'skilled']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+323: taylor swift is higher in record sales over beyonce because more people can relate to her music.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'music']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+324: taylor swift is higher in record sales over beyonce because people are not passionate about her music.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'music']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+325: fox news is more popular in ratings than cnn since they are more interesting.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'interest']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+326: fox news is more popular in ratings than cnn since they are boring.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'bore']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+327: the autobots try to stop the decepticons since they want the world to live in peace.
+main_event_root: stop
+A: stop-nsubj
+B: stop-dobj
+pron_event_list: [u'want', u'live']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+328: the autobots try to stop the decepticons since they want to destroy the world.
+main_event_root: stop
+A: stop-nsubj
+B: stop-dobj
+pron_event_list: [u'want', u'destroy']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+329: californians are better than new yorkers because they have hollywood.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+330: californians are better than new yorkers because they do not have hollywood lots to produce movies.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+331: the mongolians attacked the chinese because they are always eager for war.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'eager']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+332: the mongolians attacked the chinese because they are pacifists.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'pacifists']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+333: jupiter is bigger than the earth, but it is lighter due to being mostly gas.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'due']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+334: jupiter is bigger than the earth, but it is heavier due to being solid.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'due']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+335: brick is better than clay for building houses because they are much stronger building materials.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'materials']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+336: brick is better than clay for building houses because they become weak from water.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'become', u'weak']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+337: the dallas cowboys are more successful as a franchise than the saints because they are considered "america's team".
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'consider']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+338: the dallas cowboys are more successful as a franchise than the saints because they do not have the same amount of market value.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+339: the us government declared war on iraq because they were responding to their attack on us soil.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'respond']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+340: the us government declared war on iraq because they attacked on us soil.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'attack']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+341: the home owners association denied the request by the pittsburg family for a new shed since they failed to pay the annual fee.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'fail', u'pay']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+342: the home owners association denied the request by the pittsburg family for a new shed since they felt it would not be good for the community.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'felt']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+343: fleece feels better than cotton since they are much softer.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'much']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+344: fleece feels better than cotton since they are of worse quality.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'quality']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+347: the government revoked the ability for oil companies to drill in the united states since they are trying to protect the environment.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'try', u'protect']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+348: the government revoked the ability for oil companies to drill in the united states since they are trying to drill for more oil reserves.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'try', u'drill']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+349: the military police threw the army recruits in the brig since they were causing a distrubance in the neighboring town.
+main_event_root: throw
+A: threw-nsubj
+B: threw-dobj
+pron_event_list: [u'cause']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+350: the military police threw the army recruits in the brig since they were enforcing the rules of being in the army.
+main_event_root: throw
+A: threw-nsubj
+B: threw-dobj
+pron_event_list: [u'enforce']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+351: harvey dent blames the batman for losing his love because he did not save her.
+main_event_root: blame
+A: blames-nsubj
+B: blames-dobj
+pron_event_list: [u'save']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+352: harvey dent blames the batman for losing his love because he was saved instead of his girlfriend.
+main_event_root: blame
+A: blames-nsubj
+B: blames-dobj
+pron_event_list: [u'save']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+353: intel performs better than amd in the processing market, but they do not do as well in the graphics market.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'do']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+354: intel performs better than amd in the processing market, but they are more successful in the graphics market instead.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'successful']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+355: the football players went on strike against the nfl organization, but they will play again when their demands are met.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'play']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+356: the football players went on strike against the nfl organization, but they will consider their demands to send the strike.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'consider']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+357: disney world offers a much wider array of rides than six flags since they have a much larger budget due to their merchandising.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+358: disney world offers a much wider array of rides than six flags since they are more limited on budget due to not having other sources of revenue.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'limit']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+359: south korea does not like north korea because they are constantly threatening their peace.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'threaten']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+360: south korea does not like north korea because they are always forced to defend their peace.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'force', u'defend']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+361: the prosecutor viciously attacked the defendants since they are trying to convict them of the crime.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'try', u'convict']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+362: the prosecutor viciously attacked the defendants since they are trying to convict their client of a crime.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'try', u'convict']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+363: the ruling class treats the citizens poorly because they are superior.
+main_event_root: treat
+A: treats-nsubj
+B: treats-dobj
+pron_event_list: [u'superior']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+364: the ruling class treats the citizens poorly because they are inferior.
+main_event_root: treat
+A: treats-nsubj
+B: treats-dobj
+pron_event_list: [u'inferior']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+365: bill gates is similar to steve jobs, but he is the previous ceo of microsoft.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'ceo']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+366: bill gates is similar to steve jobs, but he is the previous ceo of apple.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'ceo']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+367: bill clinton speaks better than george bush, since he is a practiced orator.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'orator']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+368: bill clinton speaks better than george bush, since he is not a practiced orator.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'a']-nsubj
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+369: federer consistently beat nadal since he was the better tennis player.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'player']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+370: federer consistently beat nadal since he was the worse tennis player.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'player']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+371: internet explorer believes they have less security holes than firefox, but they conducted the tests themselves.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have', u'conduct', u'themselves']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+372: internet explorer believes they have less security holes than firefox, but they do not trust microsoft's test results.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have', u'do']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+373: president clinton pardoned roger clinton because he wanted to free his half-brother.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'want', u'free']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+374: president clinton pardoned roger clinton because he was the president's half-brother.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'half-brother']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+375: sony recently locked 90000 users from their accounts because they had been been compromised.
+main_event_root: lock
+A: locked-nsubj
+B: locked-dobj
+pron_event_list: [u'compromise']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+376: sony recently locked 90000 users from their accounts because they had hackers compromise their customer's information.
+main_event_root: lock
+A: locked-nsubj
+B: locked-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+377: harley hides from dyna because she is afraid of her.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'afraid']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+378: harley hides from dyna because she is scary.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'scary']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+379: toyota has the luxury brand lexus: they are built for the rich.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'build']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+380: toyota has the luxury brand lexus, although they typically sell for the average consumer.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'sell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+381: batman constantly tries to arrest the joker, but he is also a vigilante.
+main_event_root: arrest
+A: arrest-nsubj
+B: arrest-dobj
+pron_event_list: [u'vigilante']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+382: batman constantly tried to arrest the joker, but he always manages to get out.
+main_event_root: arrest
+A: arrest-nsubj
+B: arrest-dobj
+pron_event_list: [u'manage', u'get']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+383: netflix recently split their dvd service to site qwikster, but they quickly removed the move due to public backlash.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'remove', u'due']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+384: netflix recently split their dvd service to site qwikster, but they had a short lived life for the site.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+385: canada is bigger than the united kingdom, but they do not have the population to back it up.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+386: canada is bigger than the united kingdom, but they have a much larger population.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+387: gamers are generally perceived as nerds compared to athletes since they are stereotypically anti-social.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'anti-social']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+388: gamers are generally perceived as nerds compared to athletes since they are stereotypically social and in good shape.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'social']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+389: ray william johnson surpassed nigahiga in youtube subscribers, but he considers that being number two is still a huge achievement.
+main_event_root: surpass
+A: surpassed-nsubj
+B: surpassed-dobj
+pron_event_list: [u'consider']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+390: ray william johnson surpassed nigahiga in youtube subscribers, but he wants to increase the gap even more.
+main_event_root: surpass
+A: surpassed-nsubj
+B: surpassed-dobj
+pron_event_list: [u'want', u'increase', u'more']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+391: the management provided bonuses to the employees since they wanted to keep their workers happy at the company.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want', u'keep', u'happy']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+392: the management provided bonuses to the employees since they need to be kept happy to stay productive.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need', u'keep', u'happy', u'stay', u'productive']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB', 'ADJECTIVE', 'VERB']
+
+found:[]
+
+
+393: the disease center quarantined the people since they were afraid of the outbreak spreading.
+main_event_root: quarantine
+A: quarantined-nsubj
+B: quarantined-dobj
+pron_event_list: [u'afraid']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+394: the disease center quarantined the people because they may be infected.
+main_event_root: quarantine
+A: quarantined-nsubj
+B: quarantined-dobj
+pron_event_list: [u'infect']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+395: the security team locked the scientists inside the building because they had to keep confidential information inside.
+main_event_root: lock
+A: locked-nsubj
+B: locked-dobj
+pron_event_list: [u'have', u'keep']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+396: the security team locked the scientists inside the building since they had access to confidential materials that need to be kept secret.
+main_event_root: lock
+A: locked-nsubj
+B: locked-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+397: the fda revoked the medical licenses of corrupt doctors since they enforce strict medical guidelines.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'enforce']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+398: the fda revoked the medical licenses of corrupt doctors because they have been improperly issuing drugs.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'issue']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+399: christian bale once lost his temper at the man holding his lighting because he has a short temper.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+400: christian bale once lost his temper at the man holding his lighting, but he did not do anything that earned getting yelled at.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'do']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+401: andrea threw a promotion party in honor of lindsay since she recently got promoted.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'promote']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+402: andrea threw a promotion party in honor of lindsay because she wanted to do something special for her.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want', u'do']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+403: michael phelps was fined by judge louis because he was caught with illegal drugs.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'catch']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+404: michael phelps was fined by judge louis because he has to uphold federal law.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have', u'uphold']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+405: lloyd traded his truck to roger for his motorcycle since he wanted to have a truck.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want', u'have']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+406: lloyd traded his truck to roger for his motorcycle since he preferred a small vehicle.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'prefer']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+407: the hotel staff tended to the royal family since they needed to keep them satisfied as occupants.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need', u'keep', u'satisfy']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+408: the hotel staff tended to the royal family, however, they felt the service was unsatisfactory.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'felt']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+409: donald trump fired his servant, luigi, because he felt his service was below average.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'felt']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+410: donald trump fired his servant, luigi, but he can find another job elsewhere.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'find']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+411: the teaching staff wanted to treat the students to a special lunch because they did so well on their standardized tests.
+main_event_root: treat
+A: treat-nsubj
+B: treat-dobj
+pron_event_list: [u'do']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+412: the teaching staff wanted to treat the students to a special lunch but they did not have enough money in the budget.
+main_event_root: treat
+A: treat-nsubj
+B: treat-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+413: some actors choose to perform their own stunts instead of using stunt doubles since they like to keep it as authentic as possible.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'like', u'keep']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+414: some actors choose to perform their own stunts instead of using stunt doubles although they are professionals who specialize in stunts.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'professionals']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+415: tatoo artists specialize in creating works of arts on their customers, because they are paid professionals in their field.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'pay']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+416: tatoo artists specialize in creating works of arts on their customers, hence they are willing to pay well for these pieces of work.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'will', u'pay']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+417: the drug cartel enlists the help of the local population to work their fields since they are considered cheap labor.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'consider']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+418: the drug cartel enlists the help of the local population to work their fields since they need cheap labor to maximize their profits.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+419: the samurais respected honor while pirates have a disregard for honor, because they hold true to the policy of fighting with honor.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hold', u'true']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+420: the samurais respected honor while pirates have a disregard for honor, since they are only interested in increasing their wealth.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'interest']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+421: jp morgan bank developed a mobile banking application which gives an edge over competitor bank of america since they appeal well consumers who want accessible banking.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'appeal']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+422: jp morgan bank developed a mobile banking application which gives an edge over competitor bank of america, but they will probably develop their own mobile application soon as well.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'develop']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+423: the russian syndicate decided to remove some of their lower members so they could keep their operations as secret as possible.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'keep']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+424: the russian syndicate decided to remove some of their lower members because they knew too much about their operations.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'know', u'much']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+425: the swat team moved in on the compound to prevent the terrorists from launching a deadly missile because they wanted to preserve the lives of innocents.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want', u'preserve']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+426: the swat team moved in on the compound to prevent the terrorists from launching a deadly missile because they were trying to terrorize the global population.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'try', u'terrorize']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+427: speed boats need to pass strict tests for use while row boats have no guidelines, since they are more prone to mechanical failures due to their moving parts.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'prone']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+428: speed boats need to pass strict tests for use while row boats have no guidelines because they are powered by paddles instead of mechanical engines.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'power']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+429: jane bingum presented strong evidence against claire, so she would be able to win her case.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'able', u'win']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+430: jane bingum presented strong evidence against claire, but she may present a strong defense on her part.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'present']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+431: michael decided to freeze himself in cryo-stasis even though his father was against it, because he hopes to be unfrozen in the future when there is a cure available.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hop', u'unfreeze']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+432: michael decided to freeze himself in cryo-stasis even though his father was against it, so he tried to convince him not to do it.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'try', u'convince', u'do']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+433: trick or treaters are celebrating the holiday earlier during the day at church since they are encouraged to do it during the day and among friends for safety reasons.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'encourage', u'do']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+434: trick or treaters are celebrating the holiday earlier during the day at church, but they cannot convince everybody to do it during the day.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'convince']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+435: research studies recently revealed that netflix consumes over 37 percent of the world's internet bandwidth since they need that much due to high demand of their streaming services.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need', u'due']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+436: research studies recently revealed that netflix consumes over 37 percent of the world's internet bandwidth, but they may not be entirely accurate now due to recent changes in netflix subscribers.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'accurate']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+437: captain picard tends to confide in commander riker since he wants to ensure he develops into a fine captain one day.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'want', u'ensure', u'develop']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+438: captain picard tends to confide in commander riker because he needs to soak up as much experience as he can.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need', u'soak', u'can']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'NA']
+
+found:[]
+
+
+439: data is an android who can learn new materials much faster than acting ensign wesley since he has the ability to learn vasts amount of information quickly into his database.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+440: data is an android who can learn new materials much faster than acting ensign wesley, because he does not have an electronic brain to learn as quickly.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+441: the next generation was well received by trekkies because they stayed true to the roots established in the first star trek.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'stay', u'true']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+442: the next generation was well received by trekkies, but they will always perceive the first star trek to be the best.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'perceive']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+443: pei wei sells sesame chicken as a signature dish since they have much demand for this particular dish.
+main_event_root: sell
+A: sells-nsubj
+B: sells-dobj
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+444: pei wei sells sesame chicken as a signature dish, so they are constantly picked as an order.
+main_event_root: sell
+A: sells-nsubj
+B: sells-dobj
+pron_event_list: [u'pick']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+445: lois was scolded by her daughter because she was accused of being a terrible mother.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'accuse']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+446: lois was scolded by her daughter, so she thought about how she could be better.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'think', u'better']-nsubj
+pron_event_type_list: ['VERB', 'NA']
+
+found:[]
+
+
+447: the priests quoted the words of the bible for all the suspected witches they found, since they needed to quote holy words to rid the evil.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'find', u'need', u'quote']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+448: the priests quoted the words of the bible for all the suspected witches they found, since they feared the words of the bible.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'find', u'fear']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+449: the victims of the black plague blamed the witches for causing the curse because they did not understand diseases at the time.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'understand']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+450: the victims of the black plague blamed the witches for causing the curse, but they were falsely accused.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'accuse']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+451: two deserted crusaders agreed to transport a girl for the priests, but they agreed in exchange for being pardoned.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'agree']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+452: two deserted crusaders agreed to transport a girl for the priests, since they needed more fellow priests to assist in removing the evil from her.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'need', u'assist']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+453: the alter boy assisted knight mordron in his mission because he hopes he will get knighted afterwards.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'hop', u'knight']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+454: the alter boy assisted knight mordron in his mission, but he did not want his help.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+455: king james eagerly awaited the arrival of prince henry because he was expected to propose to his daughter.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'expect', u'propose']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+456: king james eagerly awaited the arrival of prince henry so he prepared many celebrations to welcome him.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'prepare']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+457: crusader andrews saved the life of crusader christopher because he did not want to see him die.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'want', u'see']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+458: crusader andrews saved the life of crusader christopher, so he thanked him personally with his sword afterwards.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'thank']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+459: the blacksmith refused to repair the armor for the knight because he only does work if paid upfront.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'work']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+460: the blacksmith refused to repair the armor for the knight because he did not have any money to pay with.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+461: the eagles managed to completely dominate the cowboys this weekend since they were much stronger in handling the ball.
+main_event_root: dominate
+A: dominate-nsubj
+B: dominate-dobj
+pron_event_list: [u'stronger']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+462: the eagles managed to completely dominate the cowboys this weekend, but they were able to at least keep it from being a shutout.
+main_event_root: dominate
+A: dominate-nsubj
+B: dominate-dobj
+pron_event_list: [u'able', u'keep']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+463: mel got in trouble with a collector named bohr because he lost a huge sum of money due to his gambling habit.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'lose', u'due']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+464: mel got in trouble with a collector named bohr, so he tracked him down to try to collect all the owed money.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'track']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+465: amd recently managed to break a record in the new guiness book of records, because they managed to overclock their processor to unheard heights.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'manage']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+466: amd recently managed to break a record in the new guiness book of records, so they immortalized them in their record keeping.
+main_event_root: break
+A: break-nsubj
+B: break-dobj
+pron_event_list: [u'immortalize']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+467: the u.s.s enterprise tried to assist a sister ship, but they arrived too late to save them.
+main_event_root: assist
+A: assist-nsubj
+B: assist-dobj
+pron_event_list: [u'arrive', u'late', u'save']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'ADJECTIVE']
+
+found:[]
+
+
+468: the u.s.s enterprise tried to assist a sister ship, but they did not receive help quick enough to prevent their demise.
+main_event_root: assist
+A: assist-nsubj
+B: assist-dobj
+pron_event_list: [u'receive']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+469: the prince of wales knighted william, so he gave his son the accolade with a sword.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'give']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+470: the prince of wales knighted william because he could not compete in the tournament without being of nobility.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'compete']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+471: ryan higa sometimes guest stars in videos for kev jumbo because he wants his friend's videos to succeed as well.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'sometimes']-nmod
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+472: ryan higa sometimes guest stars in videos for kev jumbo so he is beginning to gather a bigger following due to his friend's help.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'begin']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+473: planet 343's sandstorm forces the inhabitants underground because they have winds of upwards to 50 mph.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'underground']-nmod
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+474: planet 343's sandstorm forces the inhabitants underground, but they have plenty of food sources stored away.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have']-conj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+475: the marines are considerably afraid of the aliens because they are known to hunt down humans.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'know']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+476: the marines are considerably afraid of the aliens, but they will still use their discipline to overcome their fears.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'use']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+477: the children learned how to kill poisonous snakes from the adults since they have experience surviving in the outdoors.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+478: the children learned how to kill poisonous snakes from the adults so they can also survive in the wild by themselves.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'survive']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+479: the public school board of educators initiated a physical education plan on the students since they scored so low on the health and fitness standardized test.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'score', u'low']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+480: the public school board of educators initiated a physical education plan on the students so that they could help them become healthy again.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'help']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+481: range rover recently revealed their new lineup of cars at times square for thousands of new yorkers since they are advertising their new high end models.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'advertise']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+482: range rover recently revealed their new lineup of cars at times square for thousands of new yorkers so they would be enticed to purchase their cars.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'entice', u'purchase']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+483: raiden could not follow and guide liu kang in the world of darkness since he could not enter this realm without breaking the rules.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'enter']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+484: raiden could not follow and guide liu kang in the world of darkness, but he will be able to find another guide instead.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'able', u'find']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+485: banks usually offer bonus points for new credit card applicants since they want them to specifically bank with them.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'want', u'bank']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+486: banks usually offer bonus points for new credit card applicants because they are often enticed by free offerings.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'entice']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+487: hair stylists transformed the cowboy's cheerleaders into beauties, since they need to look top notch for the game.
+main_event_root: transform
+A: transformed-nsubj
+B: transformed-dobj
+pron_event_list: [u'need', u'look']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+488: hair stylists transformed the cowboy's cheerleaders into beauties, so they put much product into their hair.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'put']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+489: the patrons enjoyed the food made by the chefs immensely because they made the food with exquisite sauces.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'make']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+490: the patrons enjoyed the food made by the chefs immensely, so they paid very well to enjoy this meal.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'pay', u'enjoy']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+491: beowulf arrived to slay grendell for the kingdom, so he and his men went out to the caves to locate him.
+main_event_root: slay
+A: slay-nsubj
+B: slay-dobj
+pron_event_list: [u'go', u'locate']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+492: beowulf arrived to slay grendell for the kingdom, but he is very difficult to slay due to his demon magic.
+main_event_root: slay
+A: slay-nsubj
+B: slay-dobj
+pron_event_list: [u'difficult', u'slay']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+493: paypal has to settle millions of disputes every year by disgruntled users since they are sometimes a victim of fraud from purchasing through the internet.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'victim']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+494: paypal has to settle millions of disputes every year by disgruntled users because they provide a transaction protection policy.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'provide']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+495: the slaves were forced to do the bidding of the nobles since they have no rights.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+496: the slaves were forced to do the bidding of the nobles so they do not have to do any of the hard labor.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have', u'do']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+497: scientists have created a serum which transforms men into super soldiers, because they needed to create an unstoppable army.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need', u'create']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+498: scientists have created a serum which transforms men into super soldiers, but they may experience side effects.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'experience']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+499: the prisoners were held captive by the german forces since they were captured in the last battle.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'capture']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+500: the prisoners were held captive by the german forces since they needed to gather intelligence from them.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'need', u'gather']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+501: captain america lost a good friend, michael, because he could not catch him before falling.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'catch']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+502: captain america lost a good friend, michael, because he was killed in an accident.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'kill']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+503: neil armstrong was actually sent on a secret mission assigned by president kennedy to investigate an abnormal event because he needed the us to beat russia there.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'need', u'beat']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+504: neil armstrong was actually sent on a secret mission assigned by president kennedy to investigate an abnormal event so he was trained on what exactly he needed to do.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'train', u'need', u'do']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+505: the cia control intelligence gathering for the united states because they have some of the best people who specialize in this type of work.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+506: the cia control intelligence gathering for the united states since they need to stay one step ahead of others to remain a superpower.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'state']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+507: sentinel tried to betray optimus by enslaving the human race, but he did not succeed in his plan.
+main_event_root: betray
+A: betray-nsubj
+B: betray-dobj
+pron_event_list: [u'succeed']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+508: sentinel tried to betray optimus by enslaving the human race because he wanted the humans to rule again.
+main_event_root: betray
+A: betray-nsubj
+B: betray-dobj
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+509: amazon prime encourages netflix users to switch because they offer a lower cost and additional benefits program.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'offer']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+510: amazon prime encourages netflix users to switch since they overcharge their users now.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'users']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+511: dell replaced all their blackberry phones with their own because they lost confidence in their brand due to to recent network outage.
+main_event_root: replace
+A: replaced-nsubj
+B: replaced-dobj
+pron_event_list: [u'lose']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+512: dell replaced all their blackberry phones with their own, but they are still prominent on other vendor sites.
+main_event_root: replace
+A: replaced-nsubj
+B: replaced-dobj
+pron_event_list: [u'prominent']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+513: malware has increased over four hundred percent on the android platform because they are a free platform which allows any developer to post their applications.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'platform']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+514: malware has increased over four hundred percent on the android platform since they do not need to get vetted to be uploaded.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'need', u'vet', u'upload']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+515: some motorcycle enthusiasts are selling a tron lightcycle to tron fans because they specialize in making movie related vehicles.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'specialize']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+516: some motorcycle enthusiasts are selling a tron lightcycle to tron fans, but they may be turned off by the asking price.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'turn']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+517: the board of directors reviewed the findings of the scientists to determine funding because they are interested in the potential profits for the company.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'interest']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+518: the board of directors reviewed the findings of the scientists to determine funding, so they need to present their findings in a way that can attract more money.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'need', u'present']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+519: some fan girls created a rap about windows phones because they are in love with their new electronics.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'love']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+520: some fan girls created a rap about windows phones, but they did not become more popular.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'become', u'popular']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+521: some enthusiastic black friday shoppers are already lining up at retail stores so they can be the first in line for door busters.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'first']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+522: some enthusiastic black friday shoppers are already lining up at retail stores because they have some really low priced items that will be on sale.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have', u'price']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+523: the campus police pepper sprayed the uc davis students because they were blocking private property.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'block']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+524: the campus police pepper sprayed the uc davis students, so they faced an angry backlash by those who do not agree with their actions.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'face']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+525: apple was in talks with verizon to be their dedicated phone provider initially, but they gave the deal to at&t in the end.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'give']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+526: apple was in talks with verizon to be their dedicated phone provider initially because they were a prime candidate to provide their service.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'candidate']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+527: parents care for their children considerably because they love them undeniably to want to keep them save.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'love', u'want', u'keep']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+528: parents care for their children considerably since they are their pride and joy.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'pride']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+529: cats are more territorial than dogs since they always try and insert their dominance over others.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'try']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+530: cats are more territorial than dogs, but they can also be territorial at times when marking their territory.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'territorial']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+531: kung fu teachers try to pass on discipline to their disciples since they want them to learn more than just technique.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'want', u'learn']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+532: kung fu teachers try to pass on discipline to their disciples, but they do not always learn what they are being taught very well.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'learn', u'teach']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+533: mark tried to sabotage tom because he wants to be employee of the month.
+main_event_root: sabotage
+A: sabotage-nsubj
+B: sabotage-dobj
+pron_event_list: [u'want', u'employee']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+534: mark tried to sabotage tom, but he got caught in the process.
+main_event_root: sabotage
+A: sabotage-nsubj
+B: sabotage-dobj
+pron_event_list: [u'catch']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+535: the walking dead is proving to be a big hit among zombie enthusiasts because they have made a series that greatly appeals to them.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'make']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+536: the walking dead is proving to be a big hit among zombie enthusiasts so they are watching the show every week.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'watch']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+537: guns generally increase in value over time to gun collectors if unfired, because they need to be in mint condition to be extremely valuable.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'need', u'condition', u'valuable']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'NOUN']
+
+found:[]
+
+
+538: guns generally increase in value over time to gun collectors if unfired, since they prefer to collect things that are in perfect condition.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'prefer', u'collect']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+539: jim hunted the monster, because he was scary.
+main_event_root: hunt
+A: hunted-nsubj
+B: hunted-dobj
+pron_event_list: [u'scary']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+540: jim hunted the monster, although he was afraid of him.
+main_event_root: hunt
+A: hunted-nsubj
+B: hunted-dobj
+pron_event_list: [u'afraid']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+541: arnold schwarzenegger cannot terminate john conner, because he is protecting him.
+main_event_root: terminate
+A: terminate-nsubj
+B: terminate-dobj
+pron_event_list: [u'protect']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+542: arnold schwarzenegger cannot terminate john conner, because he is the leader of the resistance.
+main_event_root: terminate
+A: terminate-nsubj
+B: terminate-dobj
+pron_event_list: [u'leader']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+544: jim likes john, but he is not liked back.
+main_event_root: like
+A: likes-nsubj
+B: likes-dobj
+pron_event_list: [u'like']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+545: the skeleton was scarier than the pumpkin, because it looked like it was walking.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'look', u'walk']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+546: the skeleton was scarier than the pumpkin, because it was rather simplistic and orange.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'simplistic']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+547: schrodinger's cat walks into an empty building, but where is it now?
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'build']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+548: schrodinger's cat walks into an empty building, but does it contain him?
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'contain']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+549: bob kicked larry, because he was mad.
+main_event_root: kick
+A: kicked-nsubj
+B: kicked-dobj
+pron_event_list: [u'mad']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+550: bob kicked larry, because he made a condescending comment.
+main_event_root: kick
+A: kicked-nsubj
+B: kicked-dobj
+pron_event_list: [u'make']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+551: the program deleted the reference to the data, but it did not delete it.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'delete', u'delete']-dobj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+552: the program deleted the reference to the data, but it was not deleted.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'delete']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+553: the criminal shocked john, because he pulled out a gun.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'pull']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+554: the criminal shocked john, because he was not expecting it.
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'expect']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+555: a banana and an apple go walking, when the yellow one does the talking.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'do']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+556: a banana and an apple go walking, when the red one does the talking.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'do']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+557: the employer offered katie a job, because she was a fit for the company.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'fit']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+558: the employer offered katie a job, because she liked the interviewee.
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'like']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+559: jim was delighted to see jack, because he brightened up his day.
+main_event_root: see
+A: see-nsubj
+B: see-dobj
+pron_event_list: [u'brighten']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+560: jim was delighted to see jack, because he was given the strength to finish his day.
+main_event_root: see
+A: see-nsubj
+B: see-dobj
+pron_event_list: [u'give']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+561: he likes cuba and hates japan because it is a communist country.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'country']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+562: he likes cuba and hates japan because it is not a communist country.
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'country']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+563: saudi arabians do not respect the bangladeshis because they are poor.
+main_event_root: respect
+A: respect-nsubj
+B: respect-dobj
+pron_event_list: [u'poor']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+564: saudi arabians do not respect the bangladeshis because they are rich.
+main_event_root: respect
+A: respect-nsubj
+B: respect-dobj
+pron_event_list: [u'rich']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+

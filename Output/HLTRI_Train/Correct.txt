@@ -1,0 +1,250 @@
+15: the bird ate the pie and it died.
+main_event_root: eat
+A: ate-nsubj
+B: ate-dobj
+pron_event_list: [u'die']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'eat-s', 'die-s']
+
+
+87: google bought motorola because they want its customer base.
+main_event_root: buy
+A: bought-nsubj
+B: bought-dobj
+pron_event_list: [u'want']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'buy-s', 'want-s']
+
+
+117: the boy tried to address his friend, but he could not speak.
+main_event_root: address
+A: address-nsubj
+B: address-dobj
+pron_event_list: [u'speak']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'address-s', 'speak-s']
+
+
+143: david hit bill because mary really liked him.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'like']-dobj
+pron_event_type_list: ['VERB']
+
+found:[u'hit-o', 'like-o']
+
+
+174: the spider ate the fly because he looked tasty.
+main_event_root: eat
+A: ate-nsubj
+B: ate-dobj
+pron_event_list: [u'look', u'tasty']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'eat-o', 'look-s']
+
+
+213: michael backed bill because john really liked him.
+main_event_root: back
+A: backed-nsubj
+B: backed-dobj
+pron_event_list: [u'like']-dobj
+pron_event_type_list: ['VERB']
+
+found:[u'back-o', 'like-o']
+
+
+227: john chose bill because he was choosing.
+main_event_root: choose
+A: chose-nsubj
+B: chose-dobj
+pron_event_list: [u'choose']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'choose-s', 'choose-s']
+
+
+237: the grandmother threw her granddaughter to her death because she felt jealous.
+main_event_root: throw
+A: threw-nsubj
+B: threw-dobj
+pron_event_list: [u'felt']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'throw-s', 'felt-s']
+
+
+250: the young up-and-comer destroyed the old veteran star in the shootout, so he got placed on the starting line for the rest of the season.
+main_event_root: destroy
+A: destroyed-nsubj
+B: destroyed-dobj
+pron_event_list: [u'get', u'place']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'destroy-s', 'place-s']
+
+
+287: the band loves their fans because they come to every show.
+main_event_root: love
+A: loves-nsubj
+B: loves-dobj
+pron_event_list: [u'come']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'love-o', 'come-s']
+
+
+291: the glass hit the floor and it broke.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'break']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hit-s', 'break-s']
+
+
+342: the glass told the toaster that it liked chocolate.
+main_event_root: tell
+A: told-nsubj
+B: told-dobj
+pron_event_list: [u'like']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'tell-s', 'like-s']
+
+
+470: john hit carl and he hit back.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'hit']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hit-s', 'hit-s']
+
+
+510: bob killed vincent because he wanted to kill someone.
+main_event_root: kill
+A: killed-nsubj
+B: killed-dobj
+pron_event_list: [u'want', u'kill']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'kill-s', 'kill-s']
+
+
+538: mike helped jack with his assignment because he politely asked him to.
+main_event_root: help
+A: helped-nsubj
+B: helped-dobj
+pron_event_list: [u'ask']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'help-o', 'ask-s']
+
+
+597: the students read the books because they were learning.
+main_event_root: read
+A: read-nsubj
+B: read-dobj
+pron_event_list: [u'learn']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'read-s', 'learn-s']
+
+
+604: tom likes john because he likes people with cool names.
+main_event_root: like
+A: likes-nsubj
+B: likes-dobj
+pron_event_list: [u'like']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'like-s', 'like-s']
+
+
+621: god created adam for good but he could not control his creation.
+main_event_root: create
+A: created-nsubj
+B: created-dobj
+pron_event_list: [u'control']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'create-s', 'control-s']
+
+
+657: john visited his son so he could spent time with him.
+main_event_root: visit
+A: visited-nsubj
+B: visited-dobj
+pron_event_list: [u'spend']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'visit-s', 'spend-s']
+
+
+681: the us army fought the taliban because they are trying to prevent terrorism.
+main_event_root: fight
+A: fought-nsubj
+B: fought-dobj
+pron_event_list: [u'try', u'prevent']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[u'fight-s', 'prevent-s']
+
+
+1017: chevrolet had to recently recall their cars because they received complaints about the brakes in their product.
+main_event_root: recall
+A: recall-nsubj
+B: recall-dobj
+pron_event_list: [u'receive']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'recall-s', 'receive-s']
+
+
+1243: a motorboat turns the propeller pushing the water backwards, thus it moves forward.
+main_event_root: turn
+A: turns-nsubj
+B: turns-dobj
+pron_event_list: [u'move']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'turn-s', 'move-s']
+
+
+1258: the hammer hit the bullet, so it stopped.
+main_event_root: hit
+A: hit-nsubj
+B: hit-dobj
+pron_event_list: [u'stop']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'hit-s', 'stop-s']
+
+
+1262: kenny attacked ben, and then he defended.
+main_event_root: attack
+A: attacked-nsubj
+B: attacked-dobj
+pron_event_list: [u'defend']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[u'attack-s', 'defend-s']
+
+
+1295: daryel told ross that he was the ugliest person he knew of after examining himself disapprovingly in the mirror.
+main_event_root: tell
+A: told-nsubj
+B: told-dobj
+pron_event_list: [u'person', u'know']-nsubj
+pron_event_type_list: ['NOUN', 'VERB']
+
+found:[u'tell-s', 'know-s']
+
+

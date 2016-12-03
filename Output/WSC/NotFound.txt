@@ -1,0 +1,2748 @@
+1: the city councilmen refused the demonstrators a permit because they feared violence
+main_event_root: refuse
+A: refused-nsubj
+B: refused-dobj
+pron_event_list: [u'fear']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+2: the city councilmen refused the demonstrators a permit because they advocated violence
+main_event_root: refuse
+A: refused-nsubj
+B: refused-dobj
+pron_event_list: [u'advocate']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+3: the trophy doesn't fit into the brown suitcase because it is too large
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'large']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+4: the trophy doesn't fit into the brown suitcase because it is too small
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'small']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+5: joan made sure to thank susan for all the help she had recieved
+main_event_root: thank
+A: thank-nsubj
+B: thank-dobj
+pron_event_list: [u'recieved']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+7: paul tried to call george on the phone, but he wasn't successful
+main_event_root: call
+A: call-nsubj
+B: call-dobj
+pron_event_list: [u'successful']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+8: paul tried to call george on the phone, but he wasn't available
+main_event_root: call
+A: call-nsubj
+B: call-dobj
+pron_event_list: [u'available']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+9: the lawyer asked the witness a question, but he was reluctant to repeat it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'reluctant', u'repeat']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+10: the lawyer asked the witness a question, but he was reluctant to answer it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'reluctant', u'answer']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+11: the delivery truck zoomed by the school bus because it was going so fast
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'go']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+12: the delivery truck zoomed by the school bus because it was going so slow
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'go', u'slow']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+13: frank felt vindicated when his longtime rival bill revealed that he was the winner of the competition
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'winner']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+14: frank felt crushed when his longtime rival bill revealed that he was the winner of the competition
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'winner']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+15: the man couldn't lift his son because he was so weak
+main_event_root: lift
+A: lift-nsubj
+B: lift-dobj
+pron_event_list: [u'weak']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+16: the man couldn't lift his son because he was so heavy
+main_event_root: lift
+A: lift-nsubj
+B: lift-dobj
+pron_event_list: [u'heavy']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+17: the large ball crashed right through the table because it was made of steel
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'make']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+18: the large ball crashed right through the table because it was made of styrofoam
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'make']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+19: john couldn't see the stage with billy in front of him because he is so short
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'short']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+20: john couldn't see the stage with billy in front of him because he is so tall
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'tall']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+21: tom threw his schoolbag down to ray after he reached the top of the stairs
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'reach']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+22: tom threw his schoolbag down to ray after he reached the bottom of the stairs
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'reach']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+23: although they ran at about the same speed, sue beat sally because she had such a good start
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+24: although they ran at about the same speed, sue beat sally because she had such a bad start
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+25: the sculpture rolled off the shelf because it wasn't anchored
+main_event_root: roll
+A: rolled-nsubj
+B: rolled-dobj
+pron_event_list: [u'anchor']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+26: the sculpture rolled off the shelf because it wasn't level
+main_event_root: roll
+A: rolled-nsubj
+B: rolled-dobj
+pron_event_list: [u'level']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+27: sam's drawing was hung just above tina's and it did look much better with another one below it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'look', u'look']-nmod
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+28: sam's drawing was hung just above tina's and it did look much better with another one above it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'look', u'look']-nmod
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+29: anna did a lot better than her good friend lucy on the test because she had studied so hard
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'study']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+30: anna did a lot worse than her good friend lucy on the test because she had studied so hard
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'study']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+31: the firemen arrived after the police because they were coming from so far away
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'come']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+32: the firemen arrived before the police because they were coming from so far away
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'come']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+33: frank was upset with tom because the toaster he had bought from him didn't work
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'buy']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+34: frank was upset with tom because the toaster he had sold him didn't work
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'sell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+35: jim yelled at kevin because he was so upset
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'upset']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+36: jim comforted kevin because he was so upset
+main_event_root: comfort
+A: comforted-nsubj
+B: comforted-dobj
+pron_event_list: [u'upset']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+37: the sack of potatoes had been placed above
+the bag of flour, so it had to be moved first
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have', u'move']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+38: the sack of potatoes had been placed below
+the bag of flour, so it had to be moved first
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have', u'move']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+39: pete envies martin although he is very successful
+main_event_root: envy
+A: envies-nsubj
+B: envies-dobj
+pron_event_list: [u'successful']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+40: pete envies martin because he is very successful
+main_event_root: envy
+A: envies-nsubj
+B: envies-dobj
+pron_event_list: [u'successful']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+41: the older students were bullying the younger ones, so we punished them 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'punish']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+42: the older students were bullying the younger ones, so we rescued them 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'rescue']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+43: i poured water from the bottle into the cup until it was empty
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'empty']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+44: i poured water from the bottle into the cup until it was full
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'full']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+45: susan knows all about ann's personal problems because she is nosy
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'nosy']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+46: susan knows all about ann's personal problems because she is indiscreet
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'indiscreet']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+47: sid explained his theory to mark but he couldn't convince him
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'convince']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+48: sid explained his theory to mark but he couldn't understand him
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'understand']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+49: susan knew that ann's son had been in a car accident, so she told her about it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'tell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+50: susan knew that ann's son had been in a car accident, because she told her about it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'tell']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+51: joe's uncle can still beat him at tennis, even though he is 30 years younger
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'younger']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+52: joe's uncle can still beat him at tennis, even though he is 30 years older
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'older']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+53: the painting in mark's living room shows an oak tree and it is to the right of the bookcase
+main_event_root: show
+A: shows-nsubj
+B: shows-dobj
+pron_event_list: [u'right']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+54: the painting in mark's living room shows an oak tree and it is to the right of a house
+main_event_root: show
+A: shows-nsubj
+B: shows-dobj
+pron_event_list: [u'right']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+55: there is a gap in the wall and you can see the garden through it 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'see']-nmod
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+56: there is a gap in the wall and you can see the garden behind it 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'see']-nmod
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+57: the drain is clogged with hair and it has to be cleaned
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have', u'clean']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+58: the drain is clogged with hair and it has to be removed
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have', u'remove']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+59: my meeting started at 4:00 and i needed to catch the train at 4:30, 
+so there wasn't much time and luckily, it was short, so it worked out
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'short', u'work']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'VERB']
+
+found:[]
+
+
+60: my meeting started at 4:00 and i needed to catch the train at 4:30, 
+so there wasn't much time and luckily, it was delayed, so it worked out
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'delay', u'work']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+61: there is a pillar between me and the stage, and i can't see around it 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'see']-nmod
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+62: there is a pillar between me and the stage, and i can't see it 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'see']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+63: they broadcast an announcement, but a subway came into the 
+station and i couldn't hear it 
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'hear']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+64: they broadcast an announcement, but a subway came into the 
+station and i couldn't hear over it 
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'hear']-nmod
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+65: in the middle of the outdoor concert, the rain started falling, but it continued until 10
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'continue']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+66: in the middle of the outdoor concert, the rain started falling, and it continued until 10
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'continue']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+67: i used an old rag to clean the knife, and then i put it in the trash
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'put']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+68: i used an old rag to clean the knife, and then i put it in the drawer
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'put']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+69: ann asked mary what time the library closes, because she had forgotten
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'forget']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+70: ann asked mary what time the library closes, but she had forgotten
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'forget']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+71: i took the water bottle out of the backpack so that it would be handy
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'handy']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+72: i took the water bottle out of the backpack so that it would be lighter
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'lighter']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+73: i couldn't put the pot on the shelf because it was too tall
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'tall']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+74: i couldn't put the pot on the shelf because it was too high
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'high']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+75: i'm sure that my map will show this building; it is very good
+main_event_root: show
+A: show-nsubj
+B: show-dobj
+pron_event_list: [u'good']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+76: i'm sure that my map will show this building; it is very famous
+main_event_root: show
+A: show-nsubj
+B: show-dobj
+pron_event_list: [u'famous']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+77: bob paid for charlie's college education and he is very generous
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'generous']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+78: bob paid for charlie's college education and he is very grateful
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'grateful']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+79: bob paid for charlie's college education, but now charlie acts as though
+it never happened and he is very hurt
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'be']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+80: bob paid for charlie's college education, but now charlie acts as though
+it never happened and he is very ungrateful
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'ungrateful']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+81: bob was playing cards with adam and was way ahead and if adam hadn't had a
+sudden run of good luck, he would have won
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'win']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+82: bob was playing cards with adam and was way ahead and if adam hadn't had a
+sudden run of good luck, he would have lost
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'lose']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+83: adam can't leave work here until bob arrives to replace him and if bob had 
+left home for work on time, he would be gone by this time
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'go']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+84: adam can't leave work here until bob arrives to replace him and if bob had 
+left home for work on time, he would be here by this time
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'time']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+85: if the con artist has succeeded in fooling sam, he would have gotten a lot of money
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+86: if the con artist has succeeded in fooling sam, he would have lost a lot of money
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'lose']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+87: it was a summer afternoon, and the dog was sitting in the middle of the
+lawn and after a while, it got up and moved to a spot under the tree, 
+because it was hot
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'afternoon', u'get', u'hot']-nsubj
+pron_event_type_list: ['NOUN', 'VERB', 'ADJECTIVE']
+
+found:[]
+
+
+88: it was a summer afternoon, and the dog was sitting in the middle of the
+lawn and after a while, it got up and moved to a spot under the tree, 
+because it was cooler
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'afternoon', u'get', u'cooler']-nsubj
+pron_event_type_list: ['NOUN', 'VERB', 'ADJECTIVE']
+
+found:[]
+
+
+89: the cat was lying by the mouse hole waiting for the mouse, but it was too impatient
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'impatient']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+90: the cat was lying by the mouse hole waiting for the mouse, but it was too cautious
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'cautious']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+91: anne gave birth to a daughter last month and she is a very charming woman
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'woman']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+92: anne gave birth to a daughter last month and she is a very charming baby
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'baby']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+93: alice tried frantically to stop her daughter from chatting at
+the party, leaving us to wonder why she was behaving so strangely
+main_event_root: stop
+A: stop-nsubj
+B: stop-dobj
+pron_event_list: [u'behave']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+94: alice tried frantically to stop her daughter from barking at
+the party, leaving us to wonder why she was behaving so strangely
+main_event_root: stop
+A: stop-nsubj
+B: stop-dobj
+pron_event_list: [u'behave']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+95: i saw jim yelling at some guy in a military uniform with a huge red 
+beard and i don't know why he was, but he looked very unhappy
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'be', u'look', u'unhappy']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+96: i saw jim yelling at some guy in a military uniform with a huge red 
+beard and i don't know who he was, but he looked very unhappy
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'be', u'look', u'unhappy']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'VERB']
+
+found:[]
+
+
+97: the fish ate the worm and it was hungry
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'worm']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+98: the fish ate the worm and it was tasty
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'worm']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+99: i was trying to open the lock with the key, but someone had filled the 
+keyhole with chewing gum, and i couldn't get it in
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'get']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+100: i was trying to open the lock with the key, but someone had filled the 
+keyhole with chewing gum, and i couldn't get it out
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'get']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+101: the dog chased the cat, which ran up a tree and it waited at the bottom
+main_event_root: chase
+A: chased-nsubj
+B: chased-dobj
+pron_event_list: [u'wait']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+102: the dog chased the cat, which ran up a tree and it waited at the top
+main_event_root: chase
+A: chased-nsubj
+B: chased-dobj
+pron_event_list: [u'wait']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+103: in the storm, the tree fell down and crashed through the roof of my 
+house and now, i have to get it removed
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'remove']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+104: in the storm, the tree fell down and crashed through the roof of my 
+house and now, i have to get it repaired
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'repair']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+105: the customer walked into the bank and stabbed one of the tellers and he was immediately taken to the police station
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'take']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+106: the customer walked into the bank and stabbed one of the tellers and he was immediately taken to the hospital
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'take']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+107: john was doing research in the library when he heard a man humming and 
+whistling and he was very annoyed
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hear', u'annoy']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE']
+
+found:[]
+
+
+108: john was doing research in the library when he heard a man humming and 
+whistling and he was very annoying
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hear', u'annoy']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE']
+
+found:[]
+
+
+109: john was jogging through the park when he saw a man juggling watermelons and he was very impressed
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'saw', u'juggle', u'impress']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'ADJECTIVE']
+
+found:[]
+
+
+110: john was jogging through the park when he saw a man juggling watermelons and he was very impressive
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'saw', u'juggle', u'impressive']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'ADJECTIVE']
+
+found:[]
+
+
+111: bob collapsed on the sidewalk and soon he saw carl coming to help and he was very ill
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'saw', u'ill']-nsubj
+pron_event_type_list: ['VERB', 'NA']
+
+found:[]
+
+
+112: bob collapsed on the sidewalk and soon he saw carl coming to help and he was very concerned
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'saw', u'concern']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE']
+
+found:[]
+
+
+113: sam and amy are passionately in love, but amy's parents are unhappy
+about it, because they are fifteen
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'fifteen']-nsubj
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+114: sam and amy are passionately in love, but amy's parents are unhappy
+about it, because they are snobs
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'snobs']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+115: mark told pete many lies about himself, which pete included in his book and he should have been more  truthful
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'truthful']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+116: mark told pete many lies about himself, which pete included in his book and he should have been more  skeptical
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'skeptical']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+117: joe has sold his house and bought a new one a few miles away and he will
+be moving out of it on thursday
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'out']-nmod
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+118: joe has sold his house and bought a new one a few miles away and he will
+be moving into it on thursday
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'move']-nmod
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+119: many people start to read paul's books and can't put them down and they are gripped because paul writes so well
+main_event_root: read
+A: read-nsubj
+B: read-dobj
+pron_event_list: [u'grip']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+120: many people start to read paul's books and can't put them down and they are popular because paul writes so well
+main_event_root: read
+A: read-nsubj
+B: read-dobj
+pron_event_list: [u'popular']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+121: mary took out her flute and played one of her favorite pieces and she
+has had it since she was a child
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'have']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+122: mary took out her flute and played one of her favorite pieces and she
+has loved it since she was a child
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'love']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+123: sam pulled up a chair to the piano, but it was broken, so he had to stand instead
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'break']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+124: sam pulled up a chair to the piano, but it was broken, so he had to sing instead
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'break']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+125: since it was raining, i carried the newspaper in my backpack to keep it dry
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'rain', u'dry']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE']
+
+found:[]
+
+
+126: since it was raining, i carried the newspaper over my backpack to keep it dry
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'rain', u'dry']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE']
+
+found:[]
+
+
+129: this morning, joey built a sand castle on the beach, and put a toy 
+flag in the highest tower, but this afternoon the tide 
+knocked it down
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'knock']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+130: this morning, joey built a sand castle on the beach, and put a toy 
+flag in the highest tower, but this afternoon the wind 
+knocked it down
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'knock']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+131: jane knocked on susan's door, but there was no answer and she was disappointed
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'disappoint']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+132: jane knocked on susan's door, but there was no answer and she was out
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'be']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+133: jane knocked on the door, and susan answered it and she invited her to come out
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'it']-conj
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+134: jane knocked on the door, and susan answered it and she invited her to come in
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'it']-conj
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+135: sam took french classes from adam, because he was eager to speak it fluently
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'eager', u'speak']-nsubj
+pron_event_type_list: ['ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+136: sam took french classes from adam, because he was known to speak it fluently
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'know', u'speak']-nsubjpass
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+137: the path to the lake was blocked, so we couldn't use it 
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'use']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+138: the path to the lake was blocked, so we couldn't reach it 
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'reach']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+139: the sun was covered by a thick cloud all morning, but luckily, by the time
+the picnic started, it was out
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'be']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+140: the sun was covered by a thick cloud all morning, but luckily, by the time
+the picnic started, it was gone
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'go']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+141: we went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'place']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+142: we went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'place']-nsubj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+143: sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'end', u'look']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+144: sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'end', u'look']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+145: mary tucked her daughter anne into bed, so that she could work
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'work']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+146: mary tucked her daughter anne into bed, so that she could sleep
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'sleep']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+147: fred and alice had very warm down coats, but they were not prepared for the cold in alaska
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'prepare']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+148: fred and alice had very warm down coats, but they were not enough for the cold in alaska
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'enough']-nsubj
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+149: thomson visited cooper's grave in 1765 and at that date he had been travelling for five years
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'travel']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+150: thomson visited cooper's grave in 1765 and at that date he had been dead for five years
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'dead']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+151: jackson was greatly influenced by arnold, though he lived two centuries later
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'live']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+152: jackson was greatly influenced by arnold, though he lived two centuries earlier
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'live']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+153: i can't cut that tree down with that axe; it is too thick
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'thick']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+154: i can't cut that tree down with that axe; it is too small
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'small']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+155: the foxes are getting in at night and attacking the chickens and i shall have
+to kill them 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'kill']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+156: the foxes are getting in at night and attacking the chickens and i shall have
+to guard them 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'guard']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+157: the foxes are getting in at night and attacking the chickens and they have gotten very bold
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'get', u'bold']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+158: the foxes are getting in at night and attacking the chickens and they have gotten very nervous
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'get', u'nervous']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+159: fred covered his eyes with his hands, because the wind was blowing sand
+around and he opened them when the wind stopped
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'open']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+160: fred covered his eyes with his hands, because the wind was blowing sand
+around and he lowered them when the wind stopped
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'lower']-dobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+161: the actress used to be named terpsichore, but she changed it to tina a 
+few years ago, because she figured it was too hard to pronounce
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'change', u'tina', u'hard', u'pronounce']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+162: the actress used to be named terpsichore, but she changed it to tina a 
+few years ago, because she figured it was easier to pronounce
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'change', u'tina', u'easier', u'pronounce']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+163: fred watched tv while george went out to buy groceries and after an hour he got up
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+164: fred watched tv while george went out to buy groceries and after an hour he got back
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+165: fred was supposed to run the dishwasher, but he put it off,  because
+he wanted to watch tv and but the show turned out to be boring, so he
+changed his mind and turned it on
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'put', u'turn']-dobj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+166: fred was supposed to run the dishwasher, but he put it off,  because
+he wanted to watch tv and but the show turned out to be boring, so he
+changed his mind and turned it off
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'put', u'turn']-dobj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+167: fred is the only man still alive who remembers my great-grandfather and he is a remarkable man
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'great-grandfather']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+168: fred is the only man still alive who remembers my great-grandfather and he was a remarkable man
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'great-grandfather']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+169: fred is the only man alive who still remembers my father as an infant and
+when fred first saw my father, he was twelve years old
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'old']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+170: fred is the only man alive who still remembers my father as an infant and
+when fred first saw my father, he was twelve months old
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'old']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+171: in july, kamtchatka declared war on yakutsk and since yakutsk's army was much 
+better equipped and ten times larger, they were defeated within weeks
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'defeat']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+172: in july, kamtchatka declared war on yakutsk and since yakutsk's army was much 
+better equipped and ten times larger, they were victorious within weeks
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'victorious']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+173: look! there is a minnow swimming right below that duck! it had better get away to safety fast
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: []-.
+pron_event_type_list: []
+
+found:[]
+
+
+174: look! there is a shark swimming right below that duck! it had better get away to safety fast
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: []-.
+pron_event_type_list: []
+
+found:[]
+
+
+175: archaeologists have concluded that humans lived in laputa 20,000 years ago and they hunted for evidence on the river banks
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hunt']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+176: archaeologists have concluded that humans lived in laputa 20,000 years ago and they hunted for deer on the river banks
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hunt']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+177: the scientists are studying three species of fish that have recently
+been found living in the indian ocean and they began two years ago
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'begin']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+178: the scientists are studying three species of fish that have recently
+been found living in the indian ocean and they appeared two years ago
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'appear']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+179: the journalists interviewed the stars of the new movie and they were very persistent, so the interview lasted for a long time
+main_event_root: interview
+A: interviewed-nsubj
+B: interviewed-dobj
+pron_event_list: [u'persistent']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+180: the journalists interviewed the stars of the new movie and they were very cooperative, so the interview lasted for a long time
+main_event_root: interview
+A: interviewed-nsubj
+B: interviewed-dobj
+pron_event_list: [u'cooperative']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+181: the police arrested all of the gang members and they were trying to stop the drug trade in the neighborhood
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'members']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+182: the police arrested all of the gang members and they were trying to run the drug trade in the neighborhood
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'members']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+183: i put the cake away in the refrigerator and it has a lot of butter in it
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have', u'butter']-nmod
+pron_event_type_list: ['VERB', 'NOUN']
+
+found:[]
+
+
+184: i put the cake away in the refrigerator and it has a lot of leftovers in it
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have', u'leftovers']-nmod
+pron_event_type_list: ['VERB', 'NOUN']
+
+found:[]
+
+
+185: sam broke both his ankles and he's walking with crutches and but a month
+or so from now they should be better
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'month']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+186: sam broke both his ankles and he's walking with crutches and but a month
+or so from now they should be unnecessary
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'month']-conj
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+187: when the sponsors of the bill got to the town hall, they were surprised
+to find that the room was full of opponents and they were very much in the minority
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'surprise', u'find', u'much']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'NA']
+
+found:[]
+
+
+188: when the sponsors of the bill got to the town hall, they were surprised
+to find that the room was full of opponents and they were very much in the majority
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'surprise', u'find', u'much']-nsubj
+pron_event_type_list: ['VERB', 'VERB', 'NA']
+
+found:[]
+
+
+189: everyone really loved the oatmeal cookies; only a few people liked the 
+chocolate chip cookies and next time, we should make more of them 
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'more']-nmod
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+190: everyone really loved the oatmeal cookies; only a few people liked the 
+chocolate chip cookies and next time, we should make fewer of them 
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'fewer']-nmod
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+191: we had hoped to place copies of our newsletter on all the chairs in the
+auditorium, but there were simply not enough of them 
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'enough']-nmod
+pron_event_type_list: ['NA']
+
+found:[]
+
+
+192: we had hoped to place copies of our newsletter on all the chairs in the
+auditorium, but there were simply too many of them 
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'many']-nmod
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+193: i stuck a pin through a carrot and when i pulled the pin out, it left a hole
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'leave']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+194: i stuck a pin through a carrot and when i pulled the pin out, it had a hole
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+195: i couldn't find a spoon, so i tried using a pen to stir my 
+coffee and but that turned out to be a bad idea, because it got full of coffee
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+196: i couldn't find a spoon, so i tried using a pen to stir my 
+coffee and but that turned out to be a bad idea, because it got full of ink
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+197: steve follows fred's example in everything and he admires him hugely
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'admire']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+198: steve follows fred's example in everything and he influences him hugely
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'influence']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+199: the table won't fit through the doorway because it is too wide
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'wide']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+200: the table won't fit through the doorway because it is too narrow
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'narrow']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+201: grace was happy to trade me her sweater for my jacket and she thinks it looks dowdy on her
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'look', u'dowdy']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+202: grace was happy to trade me her sweater for my jacket and she thinks it looks great on her
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'look', u'great']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+203: john hired bill to take care of him 
+main_event_root: hire
+A: hired-nsubj
+B: hired-dobj
+pron_event_list: [u'care']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+204: john hired himself out to bill to take care of him 
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'care']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+205: john promised bill to leave, so an hour later he left
+main_event_root: promise
+A: promised-nsubj
+B: promised-dobj
+pron_event_list: [u'leave']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+206: john ordered bill to leave, so an hour later he left
+main_event_root: order
+A: ordered-nsubj
+B: ordered-dobj
+pron_event_list: [u'leave']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+207: sam goodman's biography of the spartan general xenophanes
+conveys a vivid sense of the difficulties he faced in his research
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'face']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+208: sam goodman's biography of the spartan general xenophanes
+conveys a vivid sense of the difficulties he faced in his childhood
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'face']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+209: emma's mother had died long ago, and her education had been managed by an excellent woman as governess
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'education']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+210: emma's mother had died long ago, and her place had been taken by an excellent woman as governess
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'place']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+211: jane knocked on susan's door but she did not get an answer
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'get']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+212: jane knocked on susan's door but she did not answer
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'answer']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+214: joe paid the detective after he delivered the final report on the case
+main_event_root: pay
+A: paid-nsubj
+B: paid-dobj
+pron_event_list: [u'deliver']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+215: beth didn't get angry with sally, who had cut her off, because she stopped and counted to ten
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'stop']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+216: beth didn't get angry with sally, who had cut her off, because she stopped and apologized
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'stop']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+217: jim signaled the barman and gestured toward his empty glas
+main_event_root: signal
+A: signaled-nsubj
+B: signaled-dobj
+pron_event_list: [u'glas']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+218: jim signaled the barman and gestured toward his bathroom key
+main_event_root: signal
+A: signaled-nsubj
+B: signaled-dobj
+pron_event_list: [u'key']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+219: dan took the rear seat while bill claimed the front because his "dibs!" was slow
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'claim']-nmod
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+220: dan took the rear seat while bill claimed the front because his "dibs!" was quicker
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'claim']-nmod
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+221: tom said "check" to ralph as he moved his bishop
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'bishop']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+222: tom said "check" to ralph as he took his bishop
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'bishop']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+223: as andrea in the crop duster passed over susan, she could see the landing strip
+main_event_root: pass
+A: passed-nsubj
+B: passed-dobj
+pron_event_list: [u'see']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+224: as andrea in the crop duster passed over susan, she could see the landing gear
+main_event_root: pass
+A: passed-nsubj
+B: passed-dobj
+pron_event_list: [u'see']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+225: tom gave ralph a lift to school so he wouldn't have to drive alone
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have', u'drive']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+226: tom gave ralph a lift to school so he wouldn't have to walk
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'have', u'walk']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+227: bill passed the half-empty plate to john because he was full
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'full']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+228: bill passed the half-empty plate to john because he was hungry
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+229: bill passed the gameboy to john because his turn was over
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'turn']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+230: bill passed the gameboy to john because his turn was next
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'turn']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+231: the man lifted the boy onto his shoulders
+main_event_root: lift
+A: lifted-nsubj
+B: lifted-dobj
+pron_event_list: [u'shoulder']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+232: the man lifted the boy onto his bunk bed
+main_event_root: lift
+A: lifted-nsubj
+B: lifted-dobj
+pron_event_list: [u'bed']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+233: stretching her back, the woman smiled at the girl
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'back']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+234: patting her back, the woman smiled at the girl
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'back']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+235: billy cried because toby wouldn't accept his toy
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'toy']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+236: billy cried because toby wouldn't share his toy
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'toy']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+237: lily spoke to donna, breaking her silence
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'silence']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+238: lily spoke to donna, breaking her concentration
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'concentration']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+239: when tommy dropped his ice cream, timmy giggled, so father gave him a sympathetic look
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'give']-iobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+240: when tommy dropped his ice cream, timmy giggled, so father gave him a stern look
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'give']-iobj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+241: as ollie carried tommy up the long winding steps, his legs ached
+main_event_root: carry
+A: carried-nsubj
+B: carried-dobj
+pron_event_list: [u'legs']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+242: as ollie carried tommy up the long winding steps, his legs dangled
+main_event_root: carry
+A: carried-nsubj
+B: carried-dobj
+pron_event_list: [u'legs']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+243: the father carried the sleeping boy in his arm
+main_event_root: carry
+A: carried-nsubj
+B: carried-dobj
+pron_event_list: [u'arm']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+244: the father carried the sleeping boy in his bassinet
+main_event_root: carry
+A: carried-nsubj
+B: carried-dobj
+pron_event_list: [u'bassinet']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+245: the woman held the girl against her ches
+main_event_root: hold
+A: held-nsubj
+B: held-dobj
+pron_event_list: [u'ches']-nmod:poss
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+246: the woman held the girl against her will
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'girl']-nmod
+pron_event_type_list: ['NOUN']
+
+found:[]
+
+
+247: pam's parents came home and found her having sex with her boyfriend, paul and they were furious about it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'furious']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+248: pam's parents came home and found her having sex with her boyfriend, paul and they were embarrassed about it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'embarrass']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+249: dr and adams informed kate that she had retired and presented several options for future treatment
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'retire']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+250: dr and adams informed kate that she had cancer and presented several options for future treatment
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'have']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+251: dan had to stop bill from toying with the injured bird and he is very compassionate
+main_event_root: stop
+A: stop-nsubj
+B: stop-dobj
+pron_event_list: [u'compassionate']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+252: dan had to stop bill from toying with the injured bird and he is very cruel
+main_event_root: stop
+A: stop-nsubj
+B: stop-dobj
+pron_event_list: [u'cruel']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+253: george got free tickets to the play, but he gave them to eric, even though he was particularly eager to see it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'give', u'eager', u'see']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+254: george got free tickets to the play, but he gave them to eric, because he was particularly eager to see it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'give', u'eager', u'see']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+255: george got free tickets to the play, but he gave them to eric, because he was not particularly eager to see it
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'give', u'eager', u'see']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE', 'ADJECTIVE']
+
+found:[]
+
+
+256: jane gave joan candy because she wasn't hungry
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+257: jane gave joan candy because she was hungry
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'hungry']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+258: i tried to paint a picture of an orchard, with lemons in the lemon trees, 
+but they came out looking more like light bulbs
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'come', u'look']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+259: i tried to paint a picture of an orchard, with lemons in the lemon trees, 
+but they came out looking more like telephone poles
+main_event_root: .
+A: .-.
+B: .-.
+pron_event_list: [u'come', u'look']-nsubj
+pron_event_type_list: ['VERB', 'VERB']
+
+found:[]
+
+
+260: james asked robert for a favor but he was refused
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'refuse']-nsubjpass
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+261: james asked robert for a favor but he refused
+main_event_root: ask
+A: asked-nsubj
+B: asked-dobj
+pron_event_list: [u'refuse']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+262: kirilov ceded the presidency to shatov because he was less popular
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'popular']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+263: kirilov ceded the presidency to shatov because he was more popular
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'popular']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+264: emma did not pass the ball to janie although she saw that she was open
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'saw', u'open']-nsubj
+pron_event_type_list: ['VERB', 'ADJECTIVE']
+
+found:[]
+
+
+265: emma did not pass the ball to janie although she was open
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'open']-nsubj
+pron_event_type_list: ['ADJECTIVE']
+
+found:[]
+
+
+266: i put the butterfly wing on the table and it broke
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'break']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+267: i put the heavy book on the table and it broke
+main_event_root: .
+A: .-dobj
+B: .-.
+pron_event_list: [u'break']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+268: madonna fired her trainer because she couldn't stand her boyfriend
+main_event_root: fire
+A: fired-nsubj
+B: fired-dobj
+pron_event_list: [u'stand']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+269: madonna fired her trainer because she slept with her boyfriend
+main_event_root: fire
+A: fired-nsubj
+B: fired-dobj
+pron_event_list: [u'sleep']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
+270: madonna fired her trainer because she slept with her boyfriend
+main_event_root: fire
+A: fired-nsubj
+B: fired-dobj
+pron_event_list: [u'trainer', u'boyfriend']-nmod:poss
+pron_event_type_list: ['NOUN', 'NOUN']
+
+found:[]
+
+
+271: madonna fired her trainer because she couldn't stand her boyfriend
+main_event_root: fire
+A: fired-nsubj
+B: fired-dobj
+pron_event_list: [u'trainer', u'boyfriend']-nmod:poss
+pron_event_type_list: ['NOUN', 'NOUN']
+
+found:[]
+
+
+272: carol believed that rebecca suspected that she had stolen the watch
+main_event_root: .
+A: .-nsubj
+B: .-.
+pron_event_list: [u'steal']-nsubj
+pron_event_type_list: ['VERB']
+
+found:[]
+
+
