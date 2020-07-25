@@ -5,7 +5,7 @@
 # Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html
 
 """
-Worker ("slave") process used in computing distributed LDA. Run this script \
+Worker ("subordinate") process used in computing distributed LDA. Run this script \
 on every node in your cluster. If you wish, you may even run it multiple times \
 on a single machine, to make better use of multiple cores (just beware that \
 memory footprint increases accordingly).

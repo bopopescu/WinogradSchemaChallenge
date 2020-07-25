@@ -7,7 +7,7 @@
 """
 USAGE: %(program)s
 
-    Worker ("slave") process used in computing distributed LSI. Run this script \
+    Worker ("subordinate") process used in computing distributed LSI. Run this script \
 on every node in your cluster. If you wish, you may even run it multiple times \
 on a single machine, to make better use of multiple cores (just beware that \
 memory footprint increases accordingly).
